@@ -58,7 +58,7 @@ layer.getProvider().addEventListener('tap', function(ev) {
   const info = ev.target.getData();
 
   let content = '<b>' + info.properties.ADI + '</b><br/>';
-  content += 'Address: ' + info.properties.ALT_KATEGORI;
+  content += 'Kategori: ' + info.properties.ALT_KATEGORI;
 
 let bubble =  new H.ui.InfoBubble(ev.target.getGeometry(), {
 content: content,
