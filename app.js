@@ -55,7 +55,6 @@ const layer = reader.getLayer();
 map.addLayer(layer,2);
 
 layer.getProvider().addEventListener('tap', function(ev) {
-  console.log(ev.target.getData());
   const info = ev.target.getData();
 
   let content = '<b>' + info.properties.ADI + '</b><br/>';
