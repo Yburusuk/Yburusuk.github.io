@@ -5,7 +5,6 @@ var platform = new H.service.Platform({
 });
 
 var defaultLayers = platform.createDefaultLayers();
-console.log(defaultLayers);
 
 var router = platform.getRoutingService(null, 8);
 
