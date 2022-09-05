@@ -1,4 +1,4 @@
-import points_json from './hastaneler.json' assert {type: 'json'};
+import points_json from 'hastaneler.json' assert {type: 'json'};
 
 var platform = new H.service.Platform({
   'apikey': 'PBNDEz_G35KyAjSRYzh5Pc0Mz-w4ntxAJXU8SAamU70'
@@ -47,7 +47,7 @@ x.forEach(function(i){
     coordinates.push({lat: y[m], lng: i});
 })
 
-var reader = new H.data.geojson.Reader('./hastaneler.geojson');
+var reader = new H.data.geojson.Reader('hastaneler.geojson');
 
 reader.parse();
 
