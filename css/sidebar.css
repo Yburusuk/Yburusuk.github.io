@@ -1,0 +1,31 @@
+
+/* Sidebar */
+#sidebar {
+   position: absolute;
+   top: 10px;
+   margin: var(--margin);;
+   z-index: 5000;
+   width: 325px;
+   max-height: calc(100vh - 2 * var(--margin));
+   background: var(--background);
+   overflow-y: auto;
+}
+
+.group {
+   margin: 20px 0;
+   width: 100%;
+}
+
+/* Header Section*/
+
+.header {
+   padding: var(--padding);
+   background: var(--secondary-background);
+}
+
+
+.gradient-line {
+   height: 6px;
+   width: 100%;
+   background: var(--gradient);/* var(--accent); /*var(--gradient);*/
+}

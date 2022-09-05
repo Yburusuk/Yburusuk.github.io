@@ -1,0 +1,86 @@
+/* Variables */
+
+:root {
+   --background: rgb(255, 255, 255);
+   --secondary-background: #eefdf8;
+   --primary-text: #3F444D;
+   --secondary-text: #6d7178;
+   --gradient: linear-gradient(to right, #00ffaa,#bdffe9, #00ffaa); /*linear-gradient(to right,#A566FF,#48DAD0);*/
+   --margin: 15px;
+   --padding: 15px;
+   --input-padding: 10px;
+   --font-family: FiraGO, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+/* Fonts */
+
+@font-face {
+   font-family: FiraGO;
+   src: url(../resources/FiraGO-Regular.woff);
+}
+
+@font-face {
+   font-family: FiraGO;
+   src: url(../resources/FiraGO-Bold.woff);
+   font-weight: bold;
+}
+
+@font-face {
+   font-family: FiraGO;
+   src: url(../resources/FiraGO-Medium.woff);
+   font-weight: 500;
+}
+
+/* Main */
+
+body, html { 
+   border: 0; 
+   padding: 0; 
+   margin: 0;
+   font-size: 13px;
+   color: var(--secondary-text);
+   font-family: var(--font-family);
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+}
+
+#mapContainer { 
+   width: 100vw; 
+   height: 100vh; 
+   position: absolute;
+}
+
+/* Headers */
+
+h1 {
+   font-size: 18px;
+   font-weight: 500;
+   margin: 0px 0px 10px 0px;
+   color: var(--primary-text);
+}
+
+/* Paragraph */
+
+p {
+   line-height: 18px;
+}
+
+/* Text Input Component */
+.text-input {
+   padding: var(--input-padding);
+   font-weight: 500;
+   width: 100%;
+   background: var(--secondary-background);
+   font-size: 14px;
+   color: var(--primary-text);
+   font-family: var(--font-family);
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+   outline: none;
+   border: 2px solid transparent;
+   transition: .2s all ease-in-out;
+}
+
+.text-input:focus {
+   border: 2px solid var(--accent);
+}

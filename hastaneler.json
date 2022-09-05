@@ -1,0 +1,5702 @@
+[
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KADIKÖY",
+   "ADI": "Medipol Üniversitesi Hastanesi Kadıköy",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "Lambacı Sk. No:2/1 KOŞUYOLU/KADIKÖY",
+   "TELEFON": "0216 544 66 66",
+   "WEBSITESI": "www.medipol.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 72,
+   "AMBULANS": "Var",
+   "MAHALLE": "KOŞUYOLU",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.03434784,
+         41.00466311
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SARIYER",
+   "ADI": "Sarıyer İsmail Akgün Devlet Hastanesi Ek Hizmet Binası",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Sarıyer Deresi Sk. No:16 MERKEZ/SARIYER",
+   "TELEFON": "0212 242 06 65",
+   "WEBSITESI": "www.sariyerdh.saglik.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Yok",
+   "MAHALLE": "SARIYER MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.0565991,
+         41.16916369
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "FATİH",
+   "ADI": "İstanbul Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Org. Abdurrahman Nâfiz Gürman Cad. No:22/1 CERRAHPAŞA/FATİH",
+   "TELEFON": "0212 459 60 00",
+   "WEBSITESI": "http://istanbuleah.saglik.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 507,
+   "AMBULANS": "Yok",
+   "MAHALLE": "CERRAHPAŞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.93830032,
+         41.00307392
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEYOĞLU",
+   "ADI": "Özel Universal Hospital Grup İtalyan Giovanni Alberto Agnelli Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Defterdar Yokuşu No:17 FİRUZAĞA/BEYOĞLU",
+   "TELEFON": "0212 292 35 01",
+   "WEBSITESI": "www.uhg.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Var",
+   "MAHALLE": "FİRUZAĞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.98143308,
+         41.02878152
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KARTAL",
+   "ADI": "Kartal Koşuyolu Yüksek İhtisas Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Lütfi Kırdar Cad. No: CEVİZLİ/KARTAL",
+   "TELEFON": "0216 500 15 00",
+   "WEBSITESI": "www.kosuyolu.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 465,
+   "AMBULANS": "Yok",
+   "MAHALLE": "CEVİZLİ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.17170436,
+         40.91582446
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SİLİVRİ",
+   "ADI": "Silivri Devlet Hastanesi Selimpaşa Ek Hizmet Binası",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "202. Cad. No:6 SELİMPAŞA/SİLİVRİ",
+   "TELEFON": "0212 731 88 08",
+   "WEBSITESI": "www.silivridh.saglik.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 35,
+   "AMBULANS": "Var",
+   "MAHALLE": "SELİMPAŞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.37936054,
+         41.05433252
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "FATİH",
+   "ADI": "İstanbul Haseki Eğitim ve Araştırma Hastanesi 29 Mayıs Ek Hizmet Binası",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "29 Mayıs Sk. No:3 HIRKA-İ ŞERİF/FATİH",
+   "TELEFON": "0212 533 34 61 - 68",
+   "WEBSITESI": "www.hasekieah.saglik.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 125,
+   "AMBULANS": "Yok",
+   "MAHALLE": "HIRKA-İ ŞERİF",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.93751396,
+         41.0204647
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİŞLİ",
+   "ADI": "Özel İstanbul Cerrahi Hastanesi Fulya",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Ferah Sk. No:22 TEŞVİKİYE/ŞİŞLİ",
+   "TELEFON": "0212 291 91 22",
+   "WEBSITESI": "www.istanbulcerrahi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 48,
+   "AMBULANS": "Var",
+   "MAHALLE": "TEŞVİKİYE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.99787243,
+         41.05562822
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜSKÜDAR",
+   "ADI": "Özel Üsküdar Anadolu Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Halk Cad. No:8 AZİZ MAHMUT HÜDAYİ/ÜSKÜDAR",
+   "TELEFON": "0216 341 88 88 - 0541 660 04 14",
+   "WEBSITESI": "www.uah.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 20,
+   "AMBULANS": "Var",
+   "MAHALLE": "AZİZ MAHMUT HÜDAYİ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.01583249,
+         41.02144526
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEŞİKTAŞ",
+   "ADI": "Özel Estethica Levent Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Yenisülün Sk. No:13 LEVENT/BEŞİKTAŞ",
+   "TELEFON": "0212 371 45 60",
+   "WEBSITESI": "www.estethica.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 0,
+   "AMBULANS": "Yok",
+   "MAHALLE": "LEVENT",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.01786073,
+         41.08606814
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜSKÜDAR",
+   "ADI": "Dr. Siyami Ersek Göğüs ve Kalp Damar Cerrahisi Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Tıbbiye Cad. No:25/2 SELİMİYE/ÜSKÜDAR",
+   "TELEFON": "0216 542 44 44",
+   "WEBSITESI": "www.siyamiersek.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 464,
+   "AMBULANS": "Yok",
+   "MAHALLE": "SELİMİYE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.02341119,
+         41.00379664
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİŞLİ",
+   "ADI": "Özel Nişantaşı Hastanesi ",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Fulya Sk. No:6 TEŞVİKİYE/ŞİŞLİ",
+   "TELEFON": "0212 246 29 03",
+   "WEBSITESI": "www.nisantasihastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 39,
+   "AMBULANS": "Var",
+   "MAHALLE": "TEŞVİKİYE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.99608403,
+         41.05473519
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ESENYURT",
+   "ADI": "Özel Esencan Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Ondokuz Mayıs Bulvarı No:18 BAĞLARÇEŞME/ESENYURT",
+   "TELEFON": "0212 444 02 12\n",
+   "WEBSITESI": "www.esencanhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 75,
+   "AMBULANS": "Var",
+   "MAHALLE": "BAĞLARÇEŞME",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.67657012,
+         41.0333794
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEYOĞLU",
+   "ADI": "Okmeydanı Eğitim Araştırma Hastanesine Bağlı Kasımpaşa Ek Hizmet Binası",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Bahriye Hastanesi Yokuşu No:7 KADIMEHMET EFENDİ/BEYOĞLU",
+   "TELEFON": "0212 238 79 00",
+   "WEBSITESI": "www.gata.edu.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 300,
+   "AMBULANS": "Var",
+   "MAHALLE": "KADIMEHMET EFENDİ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.9640173,
+         41.03285599
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ESENYURT",
+   "ADI": "Özel Doğa Hospital",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "229. Sk. No:4 AKŞEMSEDDİN/ESENYURT",
+   "TELEFON": "0212 690 30 41",
+   "WEBSITESI": "www.dogahospital.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 51,
+   "AMBULANS": "Var",
+   "MAHALLE": "AKŞEMSEDDİN",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.69652415,
+         41.01285299
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİŞLİ",
+   "ADI": "Özel Maya Estetik",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Avni Dilligil Sk. No:16 GÜLBAHAR/ŞİŞLİ",
+   "TELEFON": "0212 217 37 37",
+   "WEBSITESI": "www.mayaestetik.com",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": null,
+   "AMBULANS": "Yok",
+   "MAHALLE": "GÜLBAHAR",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.00218712,
+         41.06914647
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜSKÜDAR",
+   "ADI": "İstanbul Sultan Abdülhamid Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Burhan Felek Cad. No:20 SELİMİYE/ÜSKÜDAR",
+   "TELEFON": "0216 444 18 98 - 0216 542 20 20",
+   "WEBSITESI": "www.gata.edu.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Var",
+   "MAHALLE": "SELİMİYE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.02083364,
+         41.0017151
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KÜÇÜKÇEKMECE",
+   "ADI": "Özel Batı Bahat Hospıtal İkitelli",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Karaca Sk. No:1 ATATÜRK/KÜÇÜKÇEKMECE",
+   "TELEFON": "0212 471 33 00",
+   "WEBSITESI": "www.bahat.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 81,
+   "AMBULANS": "Var",
+   "MAHALLE": "ATATÜRK",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.79631931,
+         41.05087386
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜSKÜDAR",
+   "ADI": "Özel Üsküdar Hospital Türk Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Selmanı Pak Cad. No:72 MİMAR SİNAN/ÜSKÜDAR",
+   "TELEFON": "0216 341 90 90",
+   "WEBSITESI": "www.hospitalturk.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 39,
+   "AMBULANS": "Var",
+   "MAHALLE": "MİMAR SİNAN",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.02186458,
+         41.02591855
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAHÇELİEVLER",
+   "ADI": "Özel Safa Hastanesi Yenibosna",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Berkay Sk. No:11 ZAFER/BAHÇELİEVLER",
+   "TELEFON": "0212 653 33 33",
+   "WEBSITESI": "www.safahastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 111,
+   "AMBULANS": "Var",
+   "MAHALLE": "ZAFER",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.83831158,
+         40.99916994
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KAĞITHANE",
+   "ADI": "Kağıthane Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Işın Sk. No:25 SULTAN SELİM/KAĞITHANE",
+   "TELEFON": "0212 280 22 22",
+   "WEBSITESI": "www.kagithanehastanesi.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 51,
+   "AMBULANS": "Yok",
+   "MAHALLE": "SULTAN SELİM",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.00134639,
+         41.09220402
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAĞCILAR",
+   "ADI": "Özel Yeni Ufuk Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "428. Sk. No:4 İNÖNÜ/BAĞCILAR",
+   "TELEFON": "0212 435 96 96 - 444 38 81",
+   "WEBSITESI": "www.yeniufukhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 46,
+   "AMBULANS": "Var",
+   "MAHALLE": "İNÖNÜ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.85581532,
+         41.03301387
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KADIKÖY",
+   "ADI": "Özel Florence Nightingale Hastanesi Kadıköy",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Bağdat Cad. No:63 FENERYOLU/KADIKÖY",
+   "TELEFON": "0216 450 03 03",
+   "WEBSITESI": "www.florence.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 61,
+   "AMBULANS": "Var",
+   "MAHALLE": "FENERYOLU",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.04163789,
+         40.98159724
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜSKÜDAR",
+   "ADI": "Haydarpaşa Numune Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Tıbbiye Cad. No: SELİMİYE/ÜSKÜDAR",
+   "TELEFON": "0216 542 32 32",
+   "WEBSITESI": "www.haydarpasanumune.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 709,
+   "AMBULANS": "Var",
+   "MAHALLE": "SELİMİYE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.02272294,
+         41.00442712
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAKIRKÖY",
+   "ADI": "Özel Ethica İncirli Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Pelinli Sk. No:23 KARTALTEPE/BAKIRKÖY",
+   "TELEFON": "0212 414 37 37",
+   "WEBSITESI": "www.ethicaincirlihastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 77,
+   "AMBULANS": "Var",
+   "MAHALLE": "KARTALTEPE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.87271752,
+         40.99725207
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAĞCILAR",
+   "ADI": "Özel Medilife Hastanesi Bağcılar",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Osman Gazi Cad. No:173/1 FEVZİ ÇAKMAK/BAĞCILAR",
+   "TELEFON": "0212 866 80 80",
+   "WEBSITESI": "www.medilife.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 75,
+   "AMBULANS": "Var",
+   "MAHALLE": "FEVZİ ÇAKMAK",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.85940806,
+         41.04876197
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEYOĞLU",
+   "ADI": "Özel Okmeydanı Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Yıldırım Beyazıt Sk. No:12A PİYALEPAŞA/BEYOĞLU",
+   "TELEFON": "0212 256 35 65",
+   "WEBSITESI": "www.ozelokmeydani.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 27,
+   "AMBULANS": "Var",
+   "MAHALLE": "PİYALEPAŞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.96006803,
+         41.05257142
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "PENDİK",
+   "ADI": "Pendik Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Dr. Orhan Maltepe Cad. No:17 BATI/PENDİK",
+   "TELEFON": "0216 483 11 87 - 0216 491 29 37",
+   "WEBSITESI": "www.pendikdevlethastanesi.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 100,
+   "AMBULANS": "Yok",
+   "MAHALLE": "BATI",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.22980993,
+         40.87712037
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KÜÇÜKÇEKMECE",
+   "ADI": "Özel Akgün Tem Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "1. Akarsu Sk. No:92 MEHMET AKİF/KÜÇÜKÇEKMECE",
+   "TELEFON": "0212 494 34 34 - 0533 659 87 93",
+   "WEBSITESI": "www.tem.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 61,
+   "AMBULANS": "Var",
+   "MAHALLE": "MEHMET AKİF",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.80170064,
+         41.06127787
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEYOĞLU",
+   "ADI": "Sağlık Bilimleri Üniversitesi İstanbul Beyoğlu Göz Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Bereketzade Camii Sk. No:2 Bereketzade/Beyoğlu",
+   "TELEFON": "0212 251 59 00",
+   "WEBSITESI": "www.beyoglugoz.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 100,
+   "AMBULANS": "Var",
+   "MAHALLE": "BEREKETZADE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.97370639,
+         41.02478927
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAĞCILAR",
+   "ADI": "Özel Güneşli Erdem Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Fevzi Çakmak Cad. No:72-74 GÜNEŞLİ/BAĞCILAR",
+   "TELEFON": "0212 444 04 94",
+   "WEBSITESI": "www.erdemhastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 51,
+   "AMBULANS": "Var",
+   "MAHALLE": "GÜNEŞLİ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.82554274,
+         41.04013916
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KÜÇÜKÇEKMECE",
+   "ADI": "Özel Rumeli Hospital",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Mektep Sk. No:11 TEVFİKBEY/KÜÇÜKÇEKMECE",
+   "TELEFON": "0212 580 86 86",
+   "WEBSITESI": "www.rumelihospital.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 69,
+   "AMBULANS": "Var",
+   "MAHALLE": "TEVFİKBEY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.79837796,
+         41.00781883
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜSKÜDAR",
+   "ADI": "Özel Academic Hospital",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Nuhkuyusu Cad. No:94 ALTUNİZADE/ÜSKÜDAR",
+   "TELEFON": "0216 444 03 53",
+   "WEBSITESI": "www.academichospital.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 62,
+   "AMBULANS": "Var",
+   "MAHALLE": "ALTUNİZADE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.03458128,
+         41.0198541
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜSKÜDAR",
+   "ADI": "Üsküdar Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Veysipaşa Sk. No:14/1 BARBAROS/ÜSKÜDAR",
+   "TELEFON": "0216 474 79 00",
+   "WEBSITESI": "www.uskudarhastanesi.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 176,
+   "AMBULANS": "Var",
+   "MAHALLE": "BARBAROS",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.03879733,
+         41.0154471
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİŞLİ",
+   "ADI": "Özel Kolan International Hospital",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Darülaceze Cad. No:14 MERKEZ/ŞİŞLİ",
+   "TELEFON": "0212 222 08 88 - 0212 222 06 00",
+   "WEBSITESI": "www.kolaninternational.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 174,
+   "AMBULANS": "Var",
+   "MAHALLE": "MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.98044046,
+         41.06462491
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜSKÜDAR",
+   "ADI": "Özel Hospitalium Hastanesi Çamlıca",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Alemdağ Cad. No:99 KISIKLI/ÜSKÜDAR",
+   "TELEFON": "0216 443 71 00 - 0216 443 71 00",
+   "WEBSITESI": "www.hospitaliumgroup.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Var",
+   "MAHALLE": "KISIKLI",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.08198618,
+         41.02407185
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİŞLİ",
+   "ADI": "Özel Mecidiyeköy Çevre Hastanesi ",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Cemal Sahir Sk. No:4 GÜLBAHAR/ŞİŞLİ",
+   "TELEFON": "0212 274 69 25 - 444 25 93",
+   "WEBSITESI": "www.cevrehastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 43,
+   "AMBULANS": "Yok",
+   "MAHALLE": "GÜLBAHAR",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.00119557,
+         41.06725517
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "PENDİK",
+   "ADI": "Özel Ersoy Hastanesi Kurtköy",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Ankara Cad. No:390/3 KURTKÖY/PENDİK",
+   "TELEFON": "0216 585 35 35",
+   "WEBSITESI": "www.ersoyhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 66,
+   "AMBULANS": "Var",
+   "MAHALLE": "KURTKÖY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.29813508,
+         40.91068665
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "AVCILAR",
+   "ADI": "Avcılar Murat Kölük Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Yeni Yuva Sk. No:4 ÜNİVERSİTE/AVCILAR",
+   "TELEFON": "0212 412 90 00",
+   "WEBSITESI": "www.avcilardh.saglik.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 100,
+   "AMBULANS": "Var",
+   "MAHALLE": "ÜNİVERSİTE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.73148152,
+         40.98475743
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜMRANİYE",
+   "ADI": "Özel NP İstanbul Beyin Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Siteyolu Cad. No:27 SARAY/ÜMRANİYE",
+   "TELEFON": "0216 633 06 33",
+   "WEBSITESI": "www.npistanbul.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 49,
+   "AMBULANS": "Var",
+   "MAHALLE": "SARAY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.11438485,
+         41.02999764
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "PENDİK",
+   "ADI": "Pendik Devlet Hastanesi Ek Binası",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Köknar Sk. No:13 BAHÇELİEVLER/PENDİK",
+   "TELEFON": "0216 483 46 46",
+   "WEBSITESI": "www.pendikdevlethastanesi.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 100,
+   "AMBULANS": "Yok",
+   "MAHALLE": "BAHÇELİEVLER",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.23710209,
+         40.88060192
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "EYÜPSULTAN",
+   "ADI": "Eyüpsultan Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Silahtarağa Cad. No:57 MERKEZ/EYÜPSULTAN",
+   "TELEFON": "0212 417 29 00",
+   "WEBSITESI": "www.eyupdevlethastanesi.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 140,
+   "AMBULANS": "Yok",
+   "MAHALLE": "MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.94078404,
+         41.05729178
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAĞCILAR",
+   "ADI": "Özel Hospitalist Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "1020. Sk. No:5 YAVUZ SELİM/BAĞCILAR",
+   "TELEFON": "0212 462 88 88",
+   "WEBSITESI": "www.hospitalist.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 72,
+   "AMBULANS": "Yok",
+   "MAHALLE": "YAVUZ SELİM",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.85490262,
+         41.03452912
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜSKÜDAR",
+   "ADI": "Özel Universal Hospital Çamlıca",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Yunus Emre Sk. No:18 BURHANİYE/ÜSKÜDAR",
+   "TELEFON": "0216 422 78 39",
+   "WEBSITESI": "www.uhg.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Var",
+   "MAHALLE": "BURHANİYE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.05822702,
+         41.02477492
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "FATİH",
+   "ADI": "Özel Medical Park Hastanesi Fatih",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Dolap Cad. No:15 İSKENDERPAŞA/FATİH",
+   "TELEFON": "0212 453 10 00",
+   "WEBSITESI": "www.medicalpark.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 84,
+   "AMBULANS": "Var",
+   "MAHALLE": "İSKENDERPAŞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.95206322,
+         41.01473579
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ZEYTİNBURNU",
+   "ADI": "SBÜ Süleymaniye Doğum ve Kadın Hastalıkları Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Balıklı Kazlıçeşme Yolu Sk. No:1 TELSİZ/ZEYTİNBURNU",
+   "TELEFON": "0212 498 61 61",
+   "WEBSITESI": "www.suleymaniyekdch.saglik.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 105,
+   "AMBULANS": "Yok",
+   "MAHALLE": "TELSİZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.91471498,
+         40.99532827
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ZEYTİNBURNU",
+   "ADI": "Özel Balıklı Rum Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Belgrad Kapı Yolu Sk. No: KAZLIÇEŞME/ZEYTİNBURNU",
+   "TELEFON": "0212 547 16 00",
+   "WEBSITESI": "www.baliklirum.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 222,
+   "AMBULANS": "Var",
+   "MAHALLE": "KAZLIÇEŞME",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.91757467,
+         40.99884255
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ATAŞEHİR",
+   "ADI": "Özel Avicenna Hastanesi Ataşehir ",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Kayışdağı Cad. No:47 KÜÇÜKBAKKALKÖY/ATAŞEHİR",
+   "TELEFON": "0216 574 10 00",
+   "WEBSITESI": "www.avicennaistanbul.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 61,
+   "AMBULANS": "Var",
+   "MAHALLE": "KÜÇÜKBAKKALKÖY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.10874653,
+         40.97932234
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ATAŞEHİR",
+   "ADI": "Özel Ataşehir Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Yeditepe Cad. No:44 FERHATPAŞA/ATAŞEHİR",
+   "TELEFON": "0216 660 04 24",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Var",
+   "MAHALLE": "FERHATPAŞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.17564168,
+         40.98604834
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEYOĞLU",
+   "ADI": "Özel Avusturya Sen Jorj Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Felek Sk. No:12A BEREKETZADE/BEYOĞLU",
+   "TELEFON": "0212 292 62 20",
+   "WEBSITESI": "www.sjh.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 48,
+   "AMBULANS": "Var",
+   "MAHALLE": "BEREKETZADE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.9743182,
+         41.0242776
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "AVCILAR",
+   "ADI": "Özel Avcılar Anadolu Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Kayabaşı Sk. No:3 MUSTAFA KEMALPAŞA/AVCILAR",
+   "TELEFON": "0212 444 50 58",
+   "WEBSITESI": "www.anadoluhastaneleri.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 38,
+   "AMBULANS": "Yok",
+   "MAHALLE": "MUSTAFA KEMALPAŞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.70610613,
+         41.00551935
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAHÇELİEVLER",
+   "ADI": "Özel Vital Hospital",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Şevket Dağ Sk. No:1 BAHÇELİEVLER/BAHÇELİEVLER",
+   "TELEFON": "0212 557 40 00",
+   "WEBSITESI": "www.vitalhospital.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 57,
+   "AMBULANS": "Var",
+   "MAHALLE": "BAHÇELİEVLER",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.8696689,
+         41.00719175
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KÜÇÜKÇEKMECE",
+   "ADI": "Özel Doğan Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Gür Sk. No:22 CENNET/KÜÇÜKÇEKMECE",
+   "TELEFON": "0212 624 34 34",
+   "WEBSITESI": "www.doganhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 71,
+   "AMBULANS": "Var",
+   "MAHALLE": "CENNET",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.78368994,
+         40.98684449
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KADIKÖY",
+   "ADI": "Özel Çağıner Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Mirim Çelebi Sk. No:1 HASANPAŞA/KADIKÖY",
+   "TELEFON": "0216 428 48 00",
+   "WEBSITESI": "www.caginerhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 44,
+   "AMBULANS": "Var",
+   "MAHALLE": "HASANPAŞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.04527173,
+         40.99615804
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "PENDİK",
+   "ADI": "Özel Yüzyıl Pendik Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Taş Ocakları Sk. No:3 FEVZİ ÇAKMAK/PENDİK",
+   "TELEFON": "0216 397 59 00",
+   "WEBSITESI": "www.yuzyilpendik.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 82,
+   "AMBULANS": "Var",
+   "MAHALLE": "FEVZİ ÇAKMAK",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.26146334,
+         40.87937412
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ATAŞEHİR",
+   "ADI": "Özel Memorial Hastanesi Ataşehir",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Ziraatçılar Sk. No:2 KÜÇÜKBAKKALKÖY/ATAŞEHİR",
+   "TELEFON": "0216 570 66 66",
+   "WEBSITESI": "www.memorial.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 144,
+   "AMBULANS": "Var",
+   "MAHALLE": "KÜÇÜKBAKKALKÖY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.10706927,
+         40.98453828
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜMRANİYE",
+   "ADI": "Özel Afiyet Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Sütçü İmam Cad. No:8 NAMIK KEMAL/ÜMRANİYE",
+   "TELEFON": "0216 344 89 00",
+   "WEBSITESI": "www.afiyethastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 49,
+   "AMBULANS": "Var",
+   "MAHALLE": "NAMIK KEMAL",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.08416295,
+         41.02397303
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KADIKÖY",
+   "ADI": "Özel Central Hospital",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Korkut Sk. No:19A KOZYATAĞI/KADIKÖY",
+   "TELEFON": "0216 410 77 90",
+   "WEBSITESI": "www.centralhospital.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 51,
+   "AMBULANS": "Var",
+   "MAHALLE": "KOZYATAĞI",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.10027554,
+         40.9658851
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KADIKÖY",
+   "ADI": "Özel Medical Park Ağız ve Diş Hastanesi Göztepe",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Nisan Sk. No:27 MERDİVENKÖY/KADIKÖY",
+   "TELEFON": "0216 468 44 44",
+   "WEBSITESI": "www.medicalpark.com.tr",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": 0,
+   "AMBULANS": "Yok",
+   "MAHALLE": "MERDİVENKÖY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.07753062,
+         40.9903356
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAYRAMPAŞA",
+   "ADI": "Özel Bayrampaşa Kolan Hospital",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Yöntem Sk. No:1 TERAZİDERE/BAYRAMPAŞA",
+   "TELEFON": "0212 539 05 39",
+   "WEBSITESI": "www.kolanhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 114,
+   "AMBULANS": "Var",
+   "MAHALLE": "TERAZİDERE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.90103448,
+         41.03298289
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ESENYURT",
+   "ADI": "Esenyurt Devlet Hastanesi Hale Ishakoğlu Ek Hizmet Binası",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "329. Sk. No:7 SULTANİYE/ESENYURT",
+   "TELEFON": "0212 596 61 00",
+   "WEBSITESI": "www.esenyurtdh.saglik.gov.tr",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": null,
+   "AMBULANS": "Yok",
+   "MAHALLE": "SULTANİYE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.68299918,
+         41.03244277
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "GAZİOSMANPAŞA",
+   "ADI": "Özel Medical Park Hastanesi Gaziosmanpaşa",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Çukurçeşme Cad. No:61A MERKEZ/GAZİOSMANPAŞA",
+   "TELEFON": "0212 979 30 00",
+   "WEBSITESI": "www.medicalpark.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 485,
+   "AMBULANS": "Var",
+   "MAHALLE": "MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.90745841,
+         41.0592141
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAHÇELİEVLER",
+   "ADI": "İstanbul Fizik Tedavi Rehabilitasyon Eğitim ve Araştırma Hastanesi Yenibosna Ek Hizmet Binası",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Ayvaz Cami Sk. No:4 YENİBOSNA MERKEZ/BAHÇELİEVLER",
+   "TELEFON": "0212 442 22 00",
+   "WEBSITESI": "www.istanbulftr.gov.tr",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": 35,
+   "AMBULANS": "Yok",
+   "MAHALLE": "YENİBOSNA MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.82324545,
+         41.0124298
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KAĞITHANE",
+   "ADI": "Özel Derindere Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Burcu Sk. No:9 MERKEZ/KAĞITHANE",
+   "TELEFON": "0212 888 38 88",
+   "WEBSITESI": "www.hastanederindere.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 25,
+   "AMBULANS": "Var",
+   "MAHALLE": "MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.97095344,
+         41.08271264
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEYOĞLU",
+   "ADI": "İBÜ Avrupa Florence Nightingale Hastanesi Araştırma ve Uygulama Merkezi Bedii Gorbon Kanser Merkezi",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "Ayni Alibaba Sk. No:1A BEDRETTİN/BEYOĞLU",
+   "TELEFON": "0212 361 88 00",
+   "WEBSITESI": "www.istanbulbilim.edu.tr",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": 28,
+   "AMBULANS": "Var",
+   "MAHALLE": "BEDRETTİN",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.97073872,
+         41.02897765
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "PENDİK",
+   "ADI": "Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Muhsin Yazıcıoğlu Cad. No:10 FEVZİ ÇAKMAK/PENDİK",
+   "TELEFON": "0216 625 45 45",
+   "WEBSITESI": "www.marmaraeah.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 647,
+   "AMBULANS": "Yok",
+   "MAHALLE": "FEVZİ ÇAKMAK",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.26269961,
+         40.88604777
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAHÇELİEVLER",
+   "ADI": "Bahçelievler Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Ordu Cad. No:1-7 KOCASİNAN MERKEZ/BAHÇELİEVLER",
+   "TELEFON": "0212 496 70 00",
+   "WEBSITESI": "www.bahcelievlerdh.saglik.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 198,
+   "AMBULANS": "Var",
+   "MAHALLE": "KOCASİNAN MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.84455675,
+         41.00604881
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KÜÇÜKÇEKMECE",
+   "ADI": "Mehmet Akif Ersoy Göğüs Kalp Damar Cerrahisi ve Eğitim Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Turgut Özal Bulvarı No:11/2 İSTASYON/KÜÇÜKÇEKMECE",
+   "TELEFON": "0212 692 20 00 - 0212 548 48 64",
+   "WEBSITESI": "www.imaeh.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 260,
+   "AMBULANS": "Var",
+   "MAHALLE": "İSTASYON",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.7776405,
+         41.03377447
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ZEYTİNBURNU",
+   "ADI": "Özel Sante Plus Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Prof. Dr. Turan Güneş Cad. No:4 ÇIRPICI/ZEYTİNBURNU",
+   "TELEFON": "0212 664 65 55",
+   "WEBSITESI": "www.santeplus.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 78,
+   "AMBULANS": "Var",
+   "MAHALLE": "ÇIRPICI",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.89427897,
+         40.99845397
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAKIRKÖY",
+   "ADI": "Özel Acıbadem Hastanesi Bakırköy",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Halit Ziya Uşaklıgil Cad. No:1 ZEYTİNLİK/BAKIRKÖY",
+   "TELEFON": "0212 414 44 44",
+   "WEBSITESI": "www.acibadem.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 102,
+   "AMBULANS": "Var",
+   "MAHALLE": "ZEYTİNLİK",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.87272932,
+         40.97764447
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SULTANGAZİ",
+   "ADI": "Özel Gazi Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "1406. Sk. No:27 YUNUS EMRE/SULTANGAZİ",
+   "TELEFON": "0212 650 18 19",
+   "WEBSITESI": "www.gazihastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 29,
+   "AMBULANS": "Var",
+   "MAHALLE": "YUNUS EMRE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.89866197,
+         41.10103116
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAHÇELİEVLER",
+   "ADI": "Aydın Üniversitesi Ağız ve Diş Sağlığı Merkezi",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "İzzettin Çalışlar Cad. No:2 BAHÇELİEVLER/BAHÇELİEVLER",
+   "TELEFON": "444 83 47",
+   "WEBSITESI": "www.dentaydin.com",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": 0,
+   "AMBULANS": "Yok",
+   "MAHALLE": "BAHÇELİEVLER",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.87099381,
+         41.0017141
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KÜÇÜKÇEKMECE",
+   "ADI": "Biruni Üniversitesi Tıp Fakültesi Hastanesi",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "Eski Londra Asfaltı Bulvarı No:10 BEŞYOL/KÜÇÜKÇEKMECE",
+   "TELEFON": "0212 411 39 00",
+   "WEBSITESI": "www.birunihastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Var",
+   "MAHALLE": "BEŞYOL",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.79630726,
+         40.98875245
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KADIKÖY",
+   "ADI": "Özel Medical Park Hastanesi Göztepe",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Nisan Sk. No:23 MERDİVENKÖY/KADIKÖY",
+   "TELEFON": "0216 468 44 44",
+   "WEBSITESI": "www.medicalpark.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 293,
+   "AMBULANS": "Var",
+   "MAHALLE": "MERDİVENKÖY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.07765294,
+         40.99015706
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAKIRKÖY",
+   "ADI": "Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Dr. Tevfik Sağlam Cad. No:10/1 ZUHURATBABA/BAKIRKÖY",
+   "TELEFON": "0212 414 71 71",
+   "WEBSITESI": "www.beah.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 604,
+   "AMBULANS": "Var",
+   "MAHALLE": "ZUHURATBABA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.86501117,
+         40.99382809
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİŞLİ",
+   "ADI": "Özel Hospitalium Hastanesi Şişli",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Operatör Raifbey Sk. No:49 19 MAYIS/ŞİŞLİ",
+   "TELEFON": "0212 343 18 00",
+   "WEBSITESI": "www.hospitaliumgroup.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Var",
+   "MAHALLE": "19 MAYIS",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.98901831,
+         41.06063034
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "FATİH",
+   "ADI": "Özel Çapa Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Necip Asım Sk. No:23 ŞEHREMİNİ/FATİH",
+   "TELEFON": "0212 530 58 00",
+   "WEBSITESI": "www.capahastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 56,
+   "AMBULANS": "Var",
+   "MAHALLE": "ŞEHREMİNİ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.9340421,
+         41.0133865
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİŞLİ",
+   "ADI": "Özel Memorial Hastanesi Şişli",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Perpa Sk. No:2 KAPTANPAŞA/ŞİŞLİ",
+   "TELEFON": "0212 314 66 66",
+   "WEBSITESI": "www.memorial.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 169,
+   "AMBULANS": "Var",
+   "MAHALLE": "KAPTANPAŞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.97310577,
+         41.06140585
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SULTANGAZİ",
+   "ADI": "Özel Bahat Hospital Sultangazi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Eski Edirne Asfaltı No:653 İSMETPAŞA/SULTANGAZİ",
+   "TELEFON": "0212 594 58 68",
+   "WEBSITESI": "www.bahat.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 92,
+   "AMBULANS": "Var",
+   "MAHALLE": "İSMETPAŞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.86043443,
+         41.10615882
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "GAZİOSMANPAŞA",
+   "ADI": "Özel Asya Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "537. Sk. No:5 YENİ MAHALLE/GAZİOSMANPAŞA",
+   "TELEFON": "0212 537 16 16",
+   "WEBSITESI": "www.asyahastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 75,
+   "AMBULANS": "Var",
+   "MAHALLE": "YENİ MAHALLE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.90383443,
+         41.07386419
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEŞİKTAŞ",
+   "ADI": "Özel Hattat Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Yenisülün Sk. No:13 LEVENT/BEŞİKTAŞ",
+   "TELEFON": "0212 282 36 46",
+   "WEBSITESI": "www.hattathospital.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 12,
+   "AMBULANS": "Var",
+   "MAHALLE": "LEVENT",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.01783632,
+         41.08608619
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "GAZİOSMANPAŞA",
+   "ADI": "Gaziosmanpaşa Taksim Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "616. Sk. No:19A KARAYOLLARI/GAZİOSMANPAŞA",
+   "TELEFON": "0212 945 30 00",
+   "WEBSITESI": "www.taksimhastanesi.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 184,
+   "AMBULANS": "Var",
+   "MAHALLE": "KARAYOLLARI",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.89821357,
+         41.08657206
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "GAZİOSMANPAŞA",
+   "ADI": "Özel Bilge Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "56. Sk. No:2 ŞEMSİPAŞA/GAZİOSMANPAŞA",
+   "TELEFON": "0212 617 95 75",
+   "WEBSITESI": "www.bilgehastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 38,
+   "AMBULANS": "Var",
+   "MAHALLE": "ŞEMSİPAŞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.90735499,
+         41.06953667
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "TUZLA",
+   "ADI": "Özel GSB Gisbir Sağlık Merkezi Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Güzin Sk. No:2 AYDINTEPE/TUZLA",
+   "TELEFON": "0216 581 42 00",
+   "WEBSITESI": "www.gisbirhastane.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 71,
+   "AMBULANS": "Var",
+   "MAHALLE": "AYDINTEPE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.29436247,
+         40.84791623
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİŞLİ",
+   "ADI": "Özel Osmanoğlu Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Dilaçar Sk. No:4 MERKEZ/ŞİŞLİ",
+   "TELEFON": "0850 800 50 50",
+   "WEBSITESI": "www.osmanogluhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 47,
+   "AMBULANS": "Var",
+   "MAHALLE": "MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.98857643,
+         41.0630971
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAHÇELİEVLER",
+   "ADI": "Özel Median Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Mahmutbey Cad. No:369 KOCASİNAN MERKEZ/BAHÇELİEVLER",
+   "TELEFON": "0212 656 86 00",
+   "WEBSITESI": "www.gelisimhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 31,
+   "AMBULANS": "Var",
+   "MAHALLE": "KOCASİNAN MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.83931907,
+         41.02161161
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "MALTEPE",
+   "ADI": "Özel Bölge Hastanesi Maltepe",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Bağdat Cad. No:475 BAĞLARBAŞI/MALTEPE",
+   "TELEFON": "0216 441 20 20",
+   "WEBSITESI": "www.maltepebolgehastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 50,
+   "AMBULANS": "Var",
+   "MAHALLE": "BAĞLARBAŞI",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.13754965,
+         40.92088129
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAHÇELİEVLER",
+   "ADI": "Özel Aile Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Begonyalı Sk. No:7 BAHÇELİEVLER/BAHÇELİEVLER",
+   "TELEFON": "0212 441 41 42",
+   "WEBSITESI": "www.ailehastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 104,
+   "AMBULANS": "Var",
+   "MAHALLE": "BAHÇELİEVLER",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.86723015,
+         40.99762146
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "MALTEPE",
+   "ADI": "Maltepe Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Çamlı Sk. No:20A ALTAYÇEŞME/MALTEPE",
+   "TELEFON": "0216 459 77 70",
+   "WEBSITESI": "www.maltepedh.saglik.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 50,
+   "AMBULANS": "Yok",
+   "MAHALLE": "ALTAYÇEŞME",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.13504292,
+         40.93698366
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SULTANBEYLİ",
+   "ADI": "T.E.V. Sultanbeyli Devlet Hastanesi Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Kuran Kursu Cad. No:4 MEHMET AKİF/SULTANBEYLİ",
+   "TELEFON": "0216 564 24 00",
+   "WEBSITESI": "www.sultanbeylidh.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 100,
+   "AMBULANS": "Yok",
+   "MAHALLE": "MEHMET AKİF",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.26599327,
+         40.96525005
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAYRAMPAŞA",
+   "ADI": "Özel Bayrampaşa Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Hakan Sk. No:18 KARTALTEPE/BAYRAMPAŞA",
+   "TELEFON": "0212 581 33 33",
+   "WEBSITESI": "www.bayrampasa.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 16,
+   "AMBULANS": "Var",
+   "MAHALLE": "KARTALTEPE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.90357453,
+         41.05808297
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAHÇELİEVLER",
+   "ADI": "Özel İlke Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Yıldırım Beyazıt Cad. No:1 ZAFER/BAHÇELİEVLER",
+   "TELEFON": "0212 652 52 00",
+   "WEBSITESI": "www.ilkehastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 25,
+   "AMBULANS": "Var",
+   "MAHALLE": "ZAFER",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.83481914,
+         40.99764325
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAYRAMPAŞA",
+   "ADI": "Özel Baypark Hospital",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Ali Fuat Başgil Cad. No:112-114 YILDIRIM/BAYRAMPAŞA",
+   "TELEFON": "0212 640 55 55",
+   "WEBSITESI": "www.baypark.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 77,
+   "AMBULANS": "Var",
+   "MAHALLE": "YILDIRIM",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.89115271,
+         41.06302656
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜSKÜDAR",
+   "ADI": "Özel Medivia Hospital Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Zübeyde Hanım Cad. No:15 GÜZELTEPE/ÜSKÜDAR",
+   "TELEFON": "0216 308 66 26 - 0216 357 19 57",
+   "WEBSITESI": "www.mediviahospital.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 51,
+   "AMBULANS": "Var",
+   "MAHALLE": "GÜZELTEPE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.07600699,
+         41.05225685
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAYRAMPAŞA",
+   "ADI": "Bayrampaşa Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Kenar Cad. No:6A İSMET PAŞA/BAYRAMPAŞA",
+   "TELEFON": "0212 567 67 74",
+   "WEBSITESI": "www.bayrampasadh.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 100,
+   "AMBULANS": "Yok",
+   "MAHALLE": "İSMET PAŞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.90269906,
+         41.04174665
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KADIKÖY",
+   "ADI": "SBÜ Erenköy Ruh ve Sinir Hastalıkları Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Bayar Cad. No: 19 MAYIS/KADIKÖY",
+   "TELEFON": "0216 302 59 59",
+   "WEBSITESI": "www.erenkoyruhsinir.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 250,
+   "AMBULANS": "Var",
+   "MAHALLE": "19 MAYIS",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.0888788,
+         40.97549388
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SULTANBEYLİ",
+   "ADI": "Özel Saygı Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Begonya Sk. No:2 ABDURRAHMANGAZİ/SULTANBEYLİ",
+   "TELEFON": "0850 321 50 00",
+   "WEBSITESI": "www.saygihastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 83,
+   "AMBULANS": "Var",
+   "MAHALLE": "ABDURRAHMANGAZİ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.25805714,
+         40.96973367
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "MALTEPE",
+   "ADI": "İstanbul Meslek Hastalıkları Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Maltepe-Başıbüyük Yolu No:5 BAŞIBÜYÜK/MALTEPE",
+   "TELEFON": "0216 421 44 00",
+   "WEBSITESI": "www.imhh.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 52,
+   "AMBULANS": "Yok",
+   "MAHALLE": "BAŞIBÜYÜK",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.13943024,
+         40.94907369
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAĞCILAR",
+   "ADI": "Özel Yeni İklim Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "892. Sk. No:5 SANCAKTEPE/BAĞCILAR",
+   "TELEFON": "0212 433 21 24",
+   "WEBSITESI": "www.yeniiklimhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 59,
+   "AMBULANS": "Var",
+   "MAHALLE": "SANCAKTEPE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.85788259,
+         41.03673094
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAĞCILAR",
+   "ADI": "Medipol Mega Hastaneler Kompleksi",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "2309. Sk. No:6 GÖZTEPE/BAĞCILAR",
+   "TELEFON": "0212 460 77 77 - 444 70 44",
+   "WEBSITESI": "www.medipolmega.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 515,
+   "AMBULANS": "Var",
+   "MAHALLE": "GÖZTEPE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.84223396,
+         41.05833107
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "GAZİOSMANPAŞA",
+   "ADI": "Özel Avrupa Şafak Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Hastane Sk. No:2-4B MERKEZ/GAZİOSMANPAŞA",
+   "TELEFON": "0212 417 00 00",
+   "WEBSITESI": "www.avrupasafak.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 121,
+   "AMBULANS": "Var",
+   "MAHALLE": "MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.912531,
+         41.059746
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAĞCILAR",
+   "ADI": "SBÜ Bağcılar Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Dr. Sadık Ahmet Sk. No:5 MERKEZ/BAĞCILAR",
+   "TELEFON": "0212 440 40 00",
+   "WEBSITESI": "www.beh.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 498,
+   "AMBULANS": "Var",
+   "MAHALLE": "MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.87126367,
+         41.03018268
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KADIKÖY",
+   "ADI": "Özel Fahrettin Kerim Gökay Vakfı Sağlık Tesisi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Fahrettin Kerim Gökay Cad. No:237 MERDİVENKÖY/KADIKÖY",
+   "TELEFON": "0216 411 45 98 - 0216 369 91 89",
+   "WEBSITESI": "www.fahrettinkerimgokayvakfi.org",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": 0,
+   "AMBULANS": "Yok",
+   "MAHALLE": "MERDİVENKÖY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.06869517,
+         40.98207905
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜSKÜDAR",
+   "ADI": "TSK Çamlıca Özel Bakım Merkezi ",
+   "ALT_KATEGORI": "Askeri Hastane",
+   "ADRES": "Çilekli Sk. No:36 ACIBADEM/ÜSKÜDAR",
+   "TELEFON": "0216 542 20 20",
+   "WEBSITESI": "www.gata.edu.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 216,
+   "AMBULANS": "Yok",
+   "MAHALLE": "ACIBADEM",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.05900594,
+         41.01024748
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ADALAR",
+   "ADI": "Kartal Dr. Lütfi Kırdar Eğitim ve Araştırma Hastanesi Büyükada Ek Hizmet Binası",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Çarkıfelek Cad. No:2 NİZAM/ADALAR",
+   "TELEFON": "0216 382 62 28",
+   "WEBSITESI": "www.sbkeah.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 5,
+   "AMBULANS": "Var",
+   "MAHALLE": "NİZAM",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.12809868,
+         40.87002196
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SANCAKTEPE",
+   "ADI": "Özel Bölge Hastanesi Sancaktepe",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Barış Sk. No:123 MECLİS/SANCAKTEPE",
+   "TELEFON": "0216 621 13 13",
+   "WEBSITESI": "www.sancaktepebolgehastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 32,
+   "AMBULANS": "Var",
+   "MAHALLE": "MECLİS",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.21217751,
+         41.00896612
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİŞLİ",
+   "ADI": "Özel Türkiye Gazetesi Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Abide-i Hürriyet Cad. No: MERKEZ/ŞİŞLİ",
+   "TELEFON": "0212 314 14 14",
+   "WEBSITESI": "www.turkiyehastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 32,
+   "AMBULANS": "Var",
+   "MAHALLE": "MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.98202802,
+         41.06663934
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜMRANİYE",
+   "ADI": "Özel Erdem Hastanesi Çakmak",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Sezer Sk. No:3 SARAY/ÜMRANİYE",
+   "TELEFON": "0216 634 01 02",
+   "WEBSITESI": "www.erdemhastahanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 124,
+   "AMBULANS": "Var",
+   "MAHALLE": "SARAY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.1199368,
+         41.02177818
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAKIRKÖY",
+   "ADI": "Özel Yaşar Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "İncirli Cad. No:22 KARTALTEPE/BAKIRKÖY",
+   "TELEFON": "0212 543 51 51",
+   "WEBSITESI": "www.ozelyasarhastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 15,
+   "AMBULANS": "Var",
+   "MAHALLE": "KARTALTEPE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.87270376,
+         40.98377145
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEYOĞLU",
+   "ADI": "Beyoğlu Taksim Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Güllabici Sk. KATİPMUSTAFA ÇELEBİ/BEYOĞLU",
+   "TELEFON": "0212 252 43 00",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 250,
+   "AMBULANS": "Var",
+   "MAHALLE": "KATİPMUSTAFA ÇELEBİ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.98328255,
+         41.03319498
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİŞLİ",
+   "ADI": "Şişli Hamidye Etfal Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Halaskargazi Cad Etfal Sk. No: 19 MAYIS/ŞİŞLİ",
+   "TELEFON": "0212 373 50 00",
+   "WEBSITESI": "www.sislietfal.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 400,
+   "AMBULANS": "Var",
+   "MAHALLE": "19 MAYIS",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.99027513,
+         41.05756824
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KAĞITHANE",
+   "ADI": "Özel Eyüp Atriyum Kardiyoloji Merkezi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Darülaceze Cad. No:32 GÜRSEL/KAĞITHANE",
+   "TELEFON": "0212 220 37 98",
+   "WEBSITESI": "www.atriyumkardiyoloji.com",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": 0,
+   "AMBULANS": "Yok",
+   "MAHALLE": "GÜRSEL",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.97209495,
+         41.06539396
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜSKÜDAR",
+   "ADI": "Özel Medicana Hastanesi Çamlıca",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Alemdağ Cad. No:113 KISIKLI/ÜSKÜDAR",
+   "TELEFON": "0216 522 60 00",
+   "WEBSITESI": "www.medicana.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 91,
+   "AMBULANS": "Var",
+   "MAHALLE": "KISIKLI",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.08368821,
+         41.02453006
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ESENLER",
+   "ADI": "Medipol Üniversitesi Hastanesi Esenler ",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "Bahçeler Cad. No:5 BİRLİK/ESENLER",
+   "TELEFON": "0212 444 10 00",
+   "WEBSITESI": "http://esenler.medipol.edu.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 50,
+   "AMBULANS": "Var",
+   "MAHALLE": "BİRLİK",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.86620136,
+         41.05139602
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KÜÇÜKÇEKMECE",
+   "ADI": "İstanbul Aydın Üniversitesi Diş Hekimliği Fakültesi Hastanesi",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "1. Akasya Sk. No:6 BEŞYOL/KÜÇÜKÇEKMECE",
+   "TELEFON": "444 8 347 - 0530 153 22 40",
+   "WEBSITESI": "www.aydindent.com",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": 0,
+   "AMBULANS": "Yok",
+   "MAHALLE": "BEŞYOL",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.7967993,
+         40.99009168
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAŞAKŞEHİR",
+   "ADI": "Başakşehir Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Yunus Emre Cad. No:35A BAŞAK/BAŞAKŞEHİR",
+   "TELEFON": "0212 488 01 70",
+   "WEBSITESI": "www.basaksehirdh.saglik.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 100,
+   "AMBULANS": "Yok",
+   "MAHALLE": "BAŞAK",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.80884779,
+         41.11838873
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEŞİKTAŞ",
+   "ADI": "Özel Liv Hospital Ulus Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Canan Sk. No:5 ORTAKÖY/BEŞİKTAŞ",
+   "TELEFON": "0212 999 80 99",
+   "WEBSITESI": "www.livhospital.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 159,
+   "AMBULANS": "Var",
+   "MAHALLE": "ORTAKÖY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.02852928,
+         41.0609142
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SARIYER",
+   "ADI": "Sarıyer Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Çayırbaşı Kibrit Fabrikası No: KAZIM KARABEKİR PAŞA/SARIYER",
+   "TELEFON": "",
+   "WEBSITESI": "http://sariyerdh.saglik.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Var",
+   "MAHALLE": "KAZIM KARABEKİR PAŞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.02738572,
+         41.15761912
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BÜYÜKÇEKMECE",
+   "ADI": "Özel Büyükçekmece Kolan Hospital Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Fedakar Sk. No:3 FATİH/BÜYÜKÇEKMECE",
+   "TELEFON": "0212 883 90 90",
+   "WEBSITESI": "www.kolanhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 58,
+   "AMBULANS": "Var",
+   "MAHALLE": "FATİH",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.58600556,
+         41.02161342
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ARNAVUTKÖY",
+   "ADI": "Özel Avrupa Hospital Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Eski Edirne Asfaltı Cad. No:1338 ARNAVUTKÖY MERKEZ/ARNAVUTKÖY",
+   "TELEFON": "0212 597 08 30",
+   "WEBSITESI": "www.avrupahospital.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 34,
+   "AMBULANS": "Var",
+   "MAHALLE": "ARNAVUTKÖY MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.74422809,
+         41.18171369
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜSKÜDAR",
+   "ADI": "Haydarpaşa Numune Eğitim ve Araştırma Hastanesi Validebağ Ek Hizmet Binası",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Kalfa Çeşmesi Sk. No:1/3 ALTUNİZADE/ÜSKÜDAR",
+   "TELEFON": "0216 474 79 00",
+   "WEBSITESI": "www.uskudarhastanesi.gov.tr",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": 50,
+   "AMBULANS": "Yok",
+   "MAHALLE": "ALTUNİZADE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.04089688,
+         41.01187695
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KÜÇÜKÇEKMECE",
+   "ADI": "Özel Dr. Sadık Ahmet Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "İnönü Cad. No:136 YENİ MAHALLE/KÜÇÜKÇEKMECE",
+   "TELEFON": "0212 425 45 00",
+   "WEBSITESI": "www.drsadikahmethastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 32,
+   "AMBULANS": "Var",
+   "MAHALLE": "YENİ MAHALLE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.78040939,
+         40.9996729
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "GÜNGÖREN",
+   "ADI": "Özel İlgi Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Necip Fazıl Kısakürek Cad. No:115-119 MAREŞAL ÇAKMAK/GÜNGÖREN",
+   "TELEFON": "0212 506 05 66",
+   "WEBSITESI": "www.ilgihastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 60,
+   "AMBULANS": "Var",
+   "MAHALLE": "MAREŞAL ÇAKMAK",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.86672196,
+         41.02093131
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KÜÇÜKÇEKMECE",
+   "ADI": "Özel Acıbadem Hastanesi Atakent",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Turgut Özal Bulvarı No:16 HALKALI MERKEZ/KÜÇÜKÇEKMECE",
+   "TELEFON": "0212 404 44 44",
+   "WEBSITESI": "www.acibadem.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 235,
+   "AMBULANS": "Var",
+   "MAHALLE": "HALKALI MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.77886368,
+         41.03500939
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "MALTEPE",
+   "ADI": "SBÜ Süreyyapaşa Göğüs Kalp Damar Hastalıkları Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Maltepe-Başıbüyük Yolu No:9 BAŞIBÜYÜK/MALTEPE",
+   "TELEFON": "0216 421 42 00",
+   "WEBSITESI": "www.sureyyapasa.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 503,
+   "AMBULANS": "Var",
+   "MAHALLE": "BAŞIBÜYÜK",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.14056495,
+         40.95035884
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KARTAL",
+   "ADI": "Kartal Dr. Lütfi Kırdar Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Denizer Cad. No:30/6 CEVİZLİ/KARTAL",
+   "TELEFON": "0216 458 30 00",
+   "WEBSITESI": "www.sbkeah.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 678,
+   "AMBULANS": "Var",
+   "MAHALLE": "CEVİZLİ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.17304383,
+         40.91635888
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÇEKMEKÖY",
+   "ADI": "Alemdağ Muhittin ve Fatma Tatar Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Saray Cad. No:103 EKŞİOĞLU/ÇEKMEKÖY",
+   "TELEFON": "0216 430 94 64",
+   "WEBSITESI": "http://ueh.gov.tr",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": 0,
+   "AMBULANS": "Yok",
+   "MAHALLE": "EKŞİOĞLU",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.23529207,
+         41.03679239
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "MALTEPE",
+   "ADI": "Bezmialem Vakıf Üniversitesi Dragos Hastanesi",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "Sahil Yolu Cad. No:16 YALI/MALTEPE",
+   "TELEFON": "0216 251 65 65",
+   "WEBSITESI": "http://bezmialemdragoshastanesi.com/tr/Sayfalar/index.aspx",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 156,
+   "AMBULANS": "Var",
+   "MAHALLE": "YALI",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.13855537,
+         40.91027764
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "AVCILAR",
+   "ADI": "Özel Medicana Hastanesi Avcılar",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Şamlı Sk. No:34 MERKEZ/AVCILAR",
+   "TELEFON": "0212 695 48 30",
+   "WEBSITESI": "www.medicana.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 63,
+   "AMBULANS": "Yok",
+   "MAHALLE": "MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.72116121,
+         40.98131335
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SARIYER",
+   "ADI": "Özel Acıbadem Hastanesi Maslak",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Darüşşafaka Cad. No:198 DARÜŞŞAFAKA/SARIYER",
+   "TELEFON": "0212 304 44 44",
+   "WEBSITESI": "www.acibadem.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 138,
+   "AMBULANS": "Var",
+   "MAHALLE": "DARÜŞŞAFAKA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.02453925,
+         41.12717838
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "TUZLA",
+   "ADI": "Özel Tuzla Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Vatan Cad. No:93 YAYLA/TUZLA",
+   "TELEFON": "0216 447 33 33",
+   "WEBSITESI": "www.ozeltuzlahastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 29,
+   "AMBULANS": "Var",
+   "MAHALLE": "YAYLA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.31033747,
+         40.82599027
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜMRANİYE",
+   "ADI": "Özel Atlas Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Tabip Sk. No:5 İSTİKLAL/ÜMRANİYE",
+   "TELEFON": "0216 316 71 61 - 0216 461 63 27",
+   "WEBSITESI": "www.atlashastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 35,
+   "AMBULANS": "Var",
+   "MAHALLE": "İSTİKLAL",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.10429517,
+         41.02406254
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAKIRKÖY",
+   "ADI": "Lepra Deri ve Zührevi Hastalıkları Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Dr. Tevfik Sağlam Cad. No:26 /3 ZUHURATBABA/BAKIRKÖY",
+   "TELEFON": "0212 570 10 26",
+   "WEBSITESI": "www.leprahastanesi.gov.tr",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": 34,
+   "AMBULANS": "Yok",
+   "MAHALLE": "ZUHURATBABA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.85894896,
+         40.9895308
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "PENDİK",
+   "ADI": "Özel Pendik Hospital",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Bilge Sk. No:1 DOĞU/PENDİK",
+   "TELEFON": "0216 491 62 62",
+   "WEBSITESI": "www.pendikhospital.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 39,
+   "AMBULANS": "Var",
+   "MAHALLE": "DOĞU",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.2444078,
+         40.88360764
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAKIRKÖY",
+   "ADI": "Bakırköy Prof.Dr.Mazhar Osman Ruh Sağlıkları ve Sinir Hastalıkları Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Dr. Tevfik Sağlam Cad. No:25/1 ZUHURATBABA/BAKIRKÖY",
+   "TELEFON": "0212 409 15 15",
+   "WEBSITESI": "www.bakirkoyruhsinir.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 1391,
+   "AMBULANS": "Var",
+   "MAHALLE": "ZUHURATBABA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.86437968,
+         40.9908917
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEYKOZ",
+   "ADI": "Özel Medistate Kavacık Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Cumhuriyet Cad. No:24 RÜZGARLIBAHÇE/BEYKOZ",
+   "TELEFON": "0216 331 40 40",
+   "WEBSITESI": "www.medistate.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 103,
+   "AMBULANS": "Var",
+   "MAHALLE": "RÜZGARLIBAHÇE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.10139272,
+         41.09414911
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "AVCILAR",
+   "ADI": "Özel Avcılar Hospital",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Uran Cad. No:10 ÜNİVERSİTE/AVCILAR",
+   "TELEFON": "0212 591 10 00 - 444 29 99",
+   "WEBSITESI": "www.avcilarhospital.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 165,
+   "AMBULANS": "Var",
+   "MAHALLE": "ÜNİVERSİTE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.70955669,
+         40.99482765
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "PENDİK",
+   "ADI": "Özel Şifa Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Zıpkın Sk. No:10 BAHÇELİEVLER/PENDİK",
+   "TELEFON": "0216 390 92 43",
+   "WEBSITESI": "www.pendiksifa.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 52,
+   "AMBULANS": "Var",
+   "MAHALLE": "BAHÇELİEVLER",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.23615901,
+         40.88307201
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BÜYÜKÇEKMECE",
+   "ADI": "Büyükçekmece Devlet Hastanesi Gürpınar Ek Hizmet Binası",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Belediye 1 Cad. No:3 PINARTEPE/BÜYÜKÇEKMECE",
+   "TELEFON": "0212 882 16 80",
+   "WEBSITESI": "www.buyukcekmecedh.saglik.gov.tr",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": 0,
+   "AMBULANS": "Yok",
+   "MAHALLE": "PINARTEPE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.60764565,
+         40.9964988
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEŞİKTAŞ",
+   "ADI": "Özel Ota- Jinemed Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Deryadil Sk. No:65 MURADİYE/BEŞİKTAŞ",
+   "TELEFON": "0212 444 38 02",
+   "WEBSITESI": "www.otajinemedhastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 18,
+   "AMBULANS": "Yok",
+   "MAHALLE": "MURADİYE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.00038338,
+         41.04875383
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SARIYER",
+   "ADI": "İstinye Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Doktor Nurettin Cankat Sk. No:54 İSTİNYE/SARIYER",
+   "TELEFON": "0212 323 44 44",
+   "WEBSITESI": "www.idh.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 134,
+   "AMBULANS": "Yok",
+   "MAHALLE": "İSTİNYE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.05572863,
+         41.11493758
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ZEYTİNBURNU",
+   "ADI": "Özel Yedikule Surp Pırgiç Ermeni Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Zakirbaşı Sk. No: KAZLIÇEŞME/ZEYTİNBURNU",
+   "TELEFON": "0212 510 80 52",
+   "WEBSITESI": "www.surppirgic.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 121,
+   "AMBULANS": "Var",
+   "MAHALLE": "KAZLIÇEŞME",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.91505569,
+         40.99369204
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAHÇELİEVLER",
+   "ADI": "Özel Medical Park Hastanesi Bahçelievler",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Kültür Sk. No:1 BAHÇELİEVLER/BAHÇELİEVLER",
+   "TELEFON": "0212 484 14 84",
+   "WEBSITESI": "www.medicalpark.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 242,
+   "AMBULANS": "Var",
+   "MAHALLE": "BAHÇELİEVLER",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.8632008,
+         40.99578042
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİŞLİ",
+   "ADI": "İstanbul Üniversitesi-Cerrahpaşa Florence Nightingale Hemşirelik Fakültesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Abide-i Hürriyet Cad. No:164E İZZET PAŞA/ŞİŞLİ",
+   "TELEFON": "0212 224 49 54",
+   "WEBSITESI": "www.florence.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 219,
+   "AMBULANS": "Var",
+   "MAHALLE": "İZZET PAŞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.9841035,
+         41.06968836
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEŞİKTAŞ",
+   "ADI": "Özel Esteworld Plastik Cerrahi Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Aydın Sk. No:1 NİSBETİYE/BEŞİKTAŞ",
+   "TELEFON": "0212 325 61 61",
+   "WEBSITESI": "www.esteworld.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 12,
+   "AMBULANS": "Yok",
+   "MAHALLE": "NİSBETİYE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.01847813,
+         41.07242234
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KARTAL",
+   "ADI": "Tuzla Devlet Hastanesine Bağlı Acil Poliklinik Hizmet Binası",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "İstasyon Cad. No:13 YUKARI/KARTAL",
+   "TELEFON": "0216 586 33 33",
+   "WEBSITESI": "http://yavuzselim.iagb.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 256,
+   "AMBULANS": "Yok",
+   "MAHALLE": "YUKARI",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.18223191,
+         40.88830218
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SULTANBEYLİ",
+   "ADI": "Özel Ersoy Hastanesi Sultanbeyli",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Cahar Dudayev Sk. No:3 MEHMET AKİF/SULTANBEYLİ",
+   "TELEFON": "0216 398 00 88",
+   "WEBSITESI": "www.ersoyhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 47,
+   "AMBULANS": "Var",
+   "MAHALLE": "MEHMET AKİF",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.26943642,
+         40.9668371
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "PENDİK",
+   "ADI": "Özel Bölge Hastanesi Pendik",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Nevbahar Sk. No: DOĞU/PENDİK",
+   "TELEFON": "0216 585 32 00",
+   "WEBSITESI": "www.bolgehastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 123,
+   "AMBULANS": "Var",
+   "MAHALLE": "DOĞU",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.24556404,
+         40.88287913
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ATAŞEHİR",
+   "ADI": "Yeditepe Üniversitesi Hastanesi",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "Hastahane Sk. No:4 İÇERENKÖY/ATAŞEHİR",
+   "TELEFON": "0216 578 40 00",
+   "WEBSITESI": "www.yeditepehastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 152,
+   "AMBULANS": "Var",
+   "MAHALLE": "İÇERENKÖY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.10338561,
+         40.96892599
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİŞLİ",
+   "ADI": "Özel Fransız Lape Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Büyükdere Cad. No:18 19 MAYIS/ŞİŞLİ",
+   "TELEFON": "0212 246 10 20",
+   "WEBSITESI": "www.fransizlape.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 150,
+   "AMBULANS": "Yok",
+   "MAHALLE": "19 MAYIS",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.99012097,
+         41.0624336
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KADIKÖY",
+   "ADI": "Özel Universal Hospital Kadıköy",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Uzunçayır Cad. No:2/1 HASANPAŞA/KADIKÖY",
+   "TELEFON": "0216 326 06 55",
+   "WEBSITESI": "www.uhg.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Var",
+   "MAHALLE": "HASANPAŞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.04309179,
+         40.99516758
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SARIYER",
+   "ADI": "Metin Sabancı Baltalimanı Kemik Hastalıkları Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Baltalimanı Hisar Cad. No:56 BALTALİMANI/SARIYER",
+   "TELEFON": "0212 323 70 70 - 79",
+   "WEBSITESI": "www.baltalimani.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 131,
+   "AMBULANS": "Var",
+   "MAHALLE": "BALTALİMANI",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.05385494,
+         41.09584048
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "GÜNGÖREN",
+   "ADI": "Özel Meltem Hastanesi ve Doğum Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Ergene Sk. No:52 HAZNEDAR/GÜNGÖREN",
+   "TELEFON": "0212 644 22 00",
+   "WEBSITESI": "www.meltemhasthanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 36,
+   "AMBULANS": "Var",
+   "MAHALLE": "HAZNEDAR",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.86724425,
+         41.01070182
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEŞİKTAŞ",
+   "ADI": "Özel Acıbadem Hastanesi Fulya",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Yeşilçimen Sk. No:23 DİKİLİTAŞ/BEŞİKTAŞ",
+   "TELEFON": "0212 306 44 44",
+   "WEBSITESI": "www.acibadem.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 88,
+   "AMBULANS": "Var",
+   "MAHALLE": "DİKİLİTAŞ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.99975835,
+         41.05576859
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEYLİKDÜZÜ",
+   "ADI": "Özel Medicana İnternational İstanbul Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Beylikdüzü Cad. No:3 BÜYÜKŞEHİR/BEYLİKDÜZÜ",
+   "TELEFON": "0212 867 75 00",
+   "WEBSITESI": "www.medicana.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 186,
+   "AMBULANS": "Var",
+   "MAHALLE": "BÜYÜKŞEHİR",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.64541485,
+         41.01278891
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "GAZİOSMANPAŞA",
+   "ADI": "Özel Duygu Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "501. Sk. No:1-3A YENİ MAHALLE/GAZİOSMANPAŞA",
+   "TELEFON": "0212 600 11 00",
+   "WEBSITESI": "www.duyguhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 37,
+   "AMBULANS": "Var",
+   "MAHALLE": "YENİ MAHALLE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.901166,
+         41.07156352
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ZEYTİNBURNU",
+   "ADI": "Özel İstanbul Göğüs Hastalıkları Merkezi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Balıklı Kazlıçeşme Yolu Sk. No:2 TELSİZ/ZEYTİNBURNU",
+   "TELEFON": "0212 664 93 58",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 0,
+   "AMBULANS": "Var",
+   "MAHALLE": "TELSİZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.91576698,
+         40.99977926
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "EYÜPSULTAN",
+   "ADI": "Özel Eyüpsultan Haliç Hospital Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Santral Çıkmazı No:54 ALİBEYKÖY/EYÜPSULTAN",
+   "TELEFON": "0212 627 10 80",
+   "WEBSITESI": "www.halichospital.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 57,
+   "AMBULANS": "Var",
+   "MAHALLE": "ALİBEYKÖY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.94724182,
+         41.07751495
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KARTAL",
+   "ADI": "Yakacık Doğum ve Çocuk Hastalıkları Hastanesi",
+   "ALT_KATEGORI": "Kadın Doğum ve Çocuk Hastanesi",
+   "ADRES": "Yakakent Cad. No:19/1 YAKACIK ÇARŞI/KARTAL",
+   "TELEFON": "0216 377 23 96",
+   "WEBSITESI": "www.yakacik.iagb.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 106,
+   "AMBULANS": "Yok",
+   "MAHALLE": "YAKACIK ÇARŞI",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.22025086,
+         40.91824987
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KARTAL",
+   "ADI": "Özel Avicenna Hastanesi Umut ",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Üsküdar Cad. No:45 PETROL İŞ/KARTAL",
+   "TELEFON": "0216 488 72 00",
+   "WEBSITESI": "www.umuthastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 58,
+   "AMBULANS": "Var",
+   "MAHALLE": "PETROL İŞ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.17775669,
+         40.89068011
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAKIRKÖY",
+   "ADI": "Özel Çamlık Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Yüce Tarla Cad. No:46 ZUHURATBABA/BAKIRKÖY",
+   "TELEFON": "0212 543 56 10",
+   "WEBSITESI": "www.camlikhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 45,
+   "AMBULANS": "Var",
+   "MAHALLE": "ZUHURATBABA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.86983123,
+         40.98935281
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ESENLER",
+   "ADI": "Esenler Kadın Doğum ve Çocuk Hastalıkları Hastanesi",
+   "ALT_KATEGORI": "Kadın Doğum ve Çocuk Hastanesi",
+   "ADRES": "Taşocağı Cad. No:1 HAVAALANI/ESENLER",
+   "TELEFON": "0212 440 39 00",
+   "WEBSITESI": "www.esenlerisin.saglik.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 95,
+   "AMBULANS": "Yok",
+   "MAHALLE": "HAVAALANI",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.86909801,
+         41.0557863
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ESENLER",
+   "ADI": "Özel Güney Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Kazım Karabekir Cad. No:3 MENDERES/ESENLER",
+   "TELEFON": "0212 645 16 16",
+   "WEBSITESI": "www.guneyhastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 51,
+   "AMBULANS": "Var",
+   "MAHALLE": "MENDERES",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.87955747,
+         41.04379442
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "MALTEPE",
+   "ADI": "Maltepe Üniversitesi Tıp Fakültesi Hastanesi",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "Aşiyan Sk. No:10 BAĞLARBAŞI/MALTEPE",
+   "TELEFON": "444 06 20 - 0850 811 02 51",
+   "WEBSITESI": "www.maltepehastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 120,
+   "AMBULANS": "Var",
+   "MAHALLE": "BAĞLARBAŞI",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.13489611,
+         40.9256566
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜMRANİYE",
+   "ADI": "Özel Tepe Tıp Merkezi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Alemdağ Cad. No:2/1 IHLAMURKUYU/ÜMRANİYE",
+   "TELEFON": "0216 611 77 21",
+   "WEBSITESI": "www.tepetipmerkezi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Yok",
+   "MAHALLE": "IHLAMURKUYU",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.13359613,
+         41.01819293
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "GAZİOSMANPAŞA",
+   "ADI": "Özel Ortomedica Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "General Aldoğan Cad. No:6-8A KARADENİZ/GAZİOSMANPAŞA",
+   "TELEFON": "0212 649 03 80",
+   "WEBSITESI": "www.ortomedica.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 52,
+   "AMBULANS": "Var",
+   "MAHALLE": "KARADENİZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.88259898,
+         41.07555555
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KAĞITHANE",
+   "ADI": "Özel Avicenna Hastanesi Gültepe ",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Balkon Sk. No:151 TELSİZLER/KAĞITHANE",
+   "TELEFON": "0212 284 11 40",
+   "WEBSITESI": "www.gultepeavicenna.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 36,
+   "AMBULANS": "Var",
+   "MAHALLE": "TELSİZLER",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.99859031,
+         41.07868264
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİŞLİ",
+   "ADI": "Özel Vehbi Koç Vakfı Amerikan Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Güzel Bahçe Sk. No:26 TEŞVİKİYE/ŞİŞLİ",
+   "TELEFON": "0212 444 37 77",
+   "WEBSITESI": "www.amerikanhastanesi.org",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 262,
+   "AMBULANS": "Var",
+   "MAHALLE": "TEŞVİKİYE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.99523862,
+         41.05334339
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAKIRKÖY",
+   "ADI": "Özel Acıbadem İnternational Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Yeşilköy İstanbul Cad. No:82 YEŞİLKÖY/BAKIRKÖY",
+   "TELEFON": "0212 468 44 44",
+   "WEBSITESI": "www.acibadem.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 99,
+   "AMBULANS": "Yok",
+   "MAHALLE": "YEŞİLKÖY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.8350914,
+         40.95914368
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAHÇELİEVLER",
+   "ADI": "Özel Nisa Hastanesi (Hayrunnisa Hastanesi)",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Rüstempaşa Sk. No:2-4 ÇOBANÇEŞME/BAHÇELİEVLER",
+   "TELEFON": "0212 454 44 00",
+   "WEBSITESI": "www.nisahastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 55,
+   "AMBULANS": "Var",
+   "MAHALLE": "ÇOBANÇEŞME",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.83026759,
+         40.99934102
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KADIKÖY",
+   "ADI": "Özel Acıbadem Hastanesi Kadıköy",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Tekin Sk. No:8 ACIBADEM/KADIKÖY",
+   "TELEFON": "0216 544 44 44",
+   "WEBSITESI": "www.acibadem.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 106,
+   "AMBULANS": "Var",
+   "MAHALLE": "ACIBADEM",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.04299874,
+         41.00732223
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ATAŞEHİR",
+   "ADI": "Özel Bayındır İçerenköy Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Ertaç Sk. No:17 İÇERENKÖY/ATAŞEHİR",
+   "TELEFON": "0216 575 26 66",
+   "WEBSITESI": "www.bayindirhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 118,
+   "AMBULANS": "Var",
+   "MAHALLE": "İÇERENKÖY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.11042636,
+         40.96702002
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "PENDİK",
+   "ADI": "Özel Emsey Hospital Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Selçuklu Cad. No:22 ÇAMLIK/PENDİK",
+   "TELEFON": "0216 585 37 00",
+   "WEBSITESI": "www.emseyhospital.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 215,
+   "AMBULANS": "Var",
+   "MAHALLE": "ÇAMLIK",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.28942586,
+         40.92420354
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "GÜNGÖREN",
+   "ADI": "Özel Güngören Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Doğanbey Cad. No: GÜNEŞTEPE/GÜNGÖREN",
+   "TELEFON": "0212 461 91 91",
+   "WEBSITESI": "www.gungorenhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 102,
+   "AMBULANS": "Var",
+   "MAHALLE": "GÜNEŞTEPE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.87180482,
+         41.02691493
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KADIKÖY",
+   "ADI": "Özel Echomar Göztepe Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Şahika Sk. No:15 MERDİVENKÖY/KADIKÖY",
+   "TELEFON": "0216 565 40 65",
+   "WEBSITESI": "www.goztepehastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 58,
+   "AMBULANS": "Var",
+   "MAHALLE": "MERDİVENKÖY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.06195448,
+         40.98763141
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "FATİH",
+   "ADI": "Özel Fatih Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Kıztaşı Cad. No:2 İSKENDERPAŞA/FATİH",
+   "TELEFON": "0212 621 71 90",
+   "WEBSITESI": "www.fatihhastaneleri.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 27,
+   "AMBULANS": "Var",
+   "MAHALLE": "İSKENDERPAŞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.9505099,
+         41.01546258
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "GAZİOSMANPAŞA",
+   "ADI": "Özel İstanbul Şafak Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "255. Sk. No:124A HÜRRİYET/GAZİOSMANPAŞA",
+   "TELEFON": "0212 614 56 56",
+   "WEBSITESI": "www.istanbulsafak.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 50,
+   "AMBULANS": "Var",
+   "MAHALLE": "HÜRRİYET",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.89995842,
+         41.06563884
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ESENLER",
+   "ADI": "Özel Hayat Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Atışalanı Cad. No:25 FEVZİ ÇAKMAK/ESENLER",
+   "TELEFON": "0212 568 50 00",
+   "WEBSITESI": "www.esenlerhayat.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Var",
+   "MAHALLE": "FEVZİ ÇAKMAK",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.88211529,
+         41.03942939
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEYKOZ",
+   "ADI": "Beykoz Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Keskin Müneccim Sk. No: İNCİRKÖY/BEYKOZ",
+   "TELEFON": "0216 322 22 10",
+   "WEBSITESI": "www.pasabahcedh.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 265,
+   "AMBULANS": "Var",
+   "MAHALLE": "İNCİRKÖY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.09859739,
+         41.11742161
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEŞİKTAŞ",
+   "ADI": "Beşiktaş Sait Çiftçi Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Barbaros Bulvarı No:2/1 DİKİLİTAŞ/BEŞİKTAŞ",
+   "TELEFON": "0212 381 67 00",
+   "WEBSITESI": "www.bscdh.gov.tr",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": 50,
+   "AMBULANS": "Yok",
+   "MAHALLE": "DİKİLİTAŞ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.00842753,
+         41.05208115
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEŞİKTAŞ",
+   "ADI": "Özel Florence Nightingale Hastanesi Gayrettepe",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Çimen Sk. No:6-8 GAYRETTEPE/BEŞİKTAŞ",
+   "TELEFON": "0212 288 34 00",
+   "WEBSITESI": "www.florence.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 102,
+   "AMBULANS": "Var",
+   "MAHALLE": "GAYRETTEPE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.003816,
+         41.06333952
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SULTANGAZİ",
+   "ADI": "Sultangazi Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "2350. Sk. UĞUR MUMCU/SULTANGAZİ",
+   "TELEFON": "",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 600,
+   "AMBULANS": "Var",
+   "MAHALLE": "UĞUR MUMCU",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.87209348,
+         41.10501188
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİLE",
+   "ADI": "Şile Devlet Hastanesi Ek Bina",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Atatürk Cad. No:24 BALİBEY/ŞİLE",
+   "TELEFON": "0216 712 09 99",
+   "WEBSITESI": "www.siledevlet.gov.tr",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": 0,
+   "AMBULANS": "Yok",
+   "MAHALLE": "BALİBEY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.61721859,
+         41.17520977
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ZEYTİNBURNU",
+   "ADI": "Koç Üniversitesi Hastanesi",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "Davutpaşa Cad. No:1 MALTEPE/ZEYTİNBURNU",
+   "TELEFON": "0850 250 82 50",
+   "WEBSITESI": "www.kuh.ku.edu.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 205,
+   "AMBULANS": "Var",
+   "MAHALLE": "MALTEPE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.91614158,
+         41.02425728
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KADIKÖY",
+   "ADI": "Özel Acıbadem Hastanesi Kozyatağı",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Begonya Sk. No:12 19 MAYIS/KADIKÖY",
+   "TELEFON": "0216 571 44 44",
+   "WEBSITESI": "www.acibadem.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 84,
+   "AMBULANS": "Var",
+   "MAHALLE": "19 MAYIS",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.09296968,
+         40.97658157
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "EYÜPSULTAN",
+   "ADI": "Özel Alibey Hospital Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Adnan Menderes Cad. No:22 KARADOLAP/EYÜPSULTAN",
+   "TELEFON": "0212 627 79 79",
+   "WEBSITESI": "www.alibeyhospital.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 31,
+   "AMBULANS": "Yok",
+   "MAHALLE": "KARADOLAP",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.92724944,
+         41.07896257
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "GAZİOSMANPAŞA",
+   "ADI": "Özel Yıldız Academia Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Yıldıztabya Cad. No:77-79A YILDIZTABYA/GAZİOSMANPAŞA",
+   "TELEFON": "0212 417 74 74",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 57,
+   "AMBULANS": "Var",
+   "MAHALLE": "YILDIZTABYA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.92874512,
+         41.06220302
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAHÇELİEVLER",
+   "ADI": "Özel Ataköy Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Hürriyet Cad. No:1 HÜRRİYET/BAHÇELİEVLER",
+   "TELEFON": "0212 653 93 00",
+   "WEBSITESI": "www.atakoyhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 40,
+   "AMBULANS": "Var",
+   "MAHALLE": "HÜRRİYET",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.8406207,
+         40.9923584
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KADIKÖY",
+   "ADI": "İstanbul Medeniyet Üniversitesi Göztepe Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Fahrettin Kerim Gökay Cad. No:161/3 EĞİTİM/KADIKÖY",
+   "TELEFON": "0216 566 40 00",
+   "WEBSITESI": "www.sbgoztepehastanesi.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 660,
+   "AMBULANS": "Var",
+   "MAHALLE": "EĞİTİM",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.05603831,
+         40.98567899
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SİLİVRİ",
+   "ADI": "Özel Silivri Medical Park Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Mimar Sinan Cad. No:72 MİMAR SİNAN/SİLİVRİ",
+   "TELEFON": "0212 728 35 50",
+   "WEBSITESI": "www.medicalpark.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 120,
+   "AMBULANS": "Var",
+   "MAHALLE": "MİMAR SİNAN",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.22453217,
+         41.08247184
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜMRANİYE",
+   "ADI": "Özel Çamlıca Hisar Hastenesi ",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Cengiz Topel Cad. No:90 NAMIK KEMAL/ÜMRANİYE",
+   "TELEFON": "0216 481 99 55",
+   "WEBSITESI": "www.surhastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 19,
+   "AMBULANS": "Var",
+   "MAHALLE": "NAMIK KEMAL",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.09445207,
+         41.01679921
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAHÇELİEVLER",
+   "ADI": "Özel Memorial Hizmet Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Güneş 1 Sk. No:4 BAHÇELİEVLER/BAHÇELİEVLER",
+   "TELEFON": "0212 408 66 66",
+   "WEBSITESI": "www.hizmethastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 113,
+   "AMBULANS": "Var",
+   "MAHALLE": "BAHÇELİEVLER",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.88045874,
+         41.00124346
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "FATİH",
+   "ADI": "Özel Medilife Hastanesi Çapa",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Turgut Özal Millet Cad. No:2 ŞEHREMİNİ/FATİH",
+   "TELEFON": "0212 866 80 80",
+   "WEBSITESI": "www.medilife.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 26,
+   "AMBULANS": "Var",
+   "MAHALLE": "ŞEHREMİNİ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.9333865,
+         41.01488809
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAHÇELİEVLER",
+   "ADI": "Özel Bahçelievler Medicana Hastanesi ",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Bağcılar Cad. No:1/1 BAHÇELİEVLER/BAHÇELİEVLER",
+   "TELEFON": "0212 449 14 49",
+   "WEBSITESI": "www.medicana.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 89,
+   "AMBULANS": "Var",
+   "MAHALLE": "BAHÇELİEVLER",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.8700785,
+         41.0064217
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ESENLER",
+   "ADI": "Özel Ensar Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "835. Sk. No:129 BİRLİK/ESENLER",
+   "TELEFON": "0212 628 58 01",
+   "WEBSITESI": "www.ensarhastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 23,
+   "AMBULANS": "Var",
+   "MAHALLE": "BİRLİK",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.87575287,
+         41.04985319
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEYLİKDÜZÜ",
+   "ADI": "Özel Beylikdüzü Kolan Hospital Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Osmanlı Cad. No:23 ADNAN KAHVECİ/BEYLİKDÜZÜ",
+   "TELEFON": "0212 855 68 55",
+   "WEBSITESI": "www.kolanhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 101,
+   "AMBULANS": "Var",
+   "MAHALLE": "ADNAN KAHVECİ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.62957137,
+         41.00656282
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ATAŞEHİR",
+   "ADI": "SBÜ Fatih Sultan Mehmet Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Üsküdar-İçerenköy Yolu Cad. No:1/5B İÇERENKÖY/ATAŞEHİR",
+   "TELEFON": "0216 578 30 00",
+   "WEBSITESI": "www.fsmhastanesi.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 300,
+   "AMBULANS": "Var",
+   "MAHALLE": "İÇERENKÖY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.10425351,
+         40.96951169
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "FATİH",
+   "ADI": "Bezmialem Vakıf Üniversitesi Tıp Fakültesi Hastanesi",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "Adnan Menderes Vatan Bulvarı No: TOPKAPI/FATİH",
+   "TELEFON": "0212 453 17 00",
+   "WEBSITESI": "www.bezmialemhastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Var",
+   "MAHALLE": "TOPKAPI",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.9341078,
+         41.01928081
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "FATİH",
+   "ADI": "İstanbul Haseki Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Turgut Özal Millet Cad. No: HASEKİ SULTAN/FATİH",
+   "TELEFON": "0212 529 44 00",
+   "WEBSITESI": "www.hasekieah.saglik.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 429,
+   "AMBULANS": "Yok",
+   "MAHALLE": "HASEKİ SULTAN",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.94386006,
+         41.01004728
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "FATİH",
+   "ADI": "Medipol Üniversitesi Hastanesi Fındıkzade",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "Fındıkzade Sk. No:3 MOLLA GÜRANİ/FATİH",
+   "TELEFON": "0212 534 86 86",
+   "WEBSITESI": "http://findikzade.medipol.edu.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Var",
+   "MAHALLE": "MOLLA GÜRANİ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.94002565,
+         41.01258747
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEYOĞLU",
+   "ADI": "Özel Alman Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Sıraselviler Cad. No:71 CİHANGİR/BEYOĞLU",
+   "TELEFON": "0212 293 21 50",
+   "WEBSITESI": "www.almanhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Var",
+   "MAHALLE": "CİHANGİR",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.98450898,
+         41.0332014
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜMRANİYE",
+   "ADI": "SBÜ Ümraniye Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Adem Yavuz Cad. No:1 ELMALIKENT/ÜMRANİYE",
+   "TELEFON": "0216 632 18 18",
+   "WEBSITESI": "www.ueh.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 836,
+   "AMBULANS": "Yok",
+   "MAHALLE": "ELMALIKENT",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.10200615,
+         41.03212673
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİŞLİ",
+   "ADI": "Özel Kadıoğlu Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Aytekin Kotil Cad. No:25 FULYA/ŞİŞLİ",
+   "TELEFON": "0212 211 33 33",
+   "WEBSITESI": "www.kadiogluhastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 27,
+   "AMBULANS": "Yok",
+   "MAHALLE": "FULYA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.99458416,
+         41.06291808
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "GAZİOSMANPAŞA",
+   "ADI": "Özel Başarı Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Hekimsuyu Cad. No:55A YENİ MAHALLE/GAZİOSMANPAŞA",
+   "TELEFON": "0212 477 67 67",
+   "WEBSITESI": "www.basarihastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 75,
+   "AMBULANS": "Var",
+   "MAHALLE": "YENİ MAHALLE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.90680399,
+         41.07996268
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SULTANGAZİ",
+   "ADI": "Özel Medigold Sultan Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Eski Edirne Asfaltı No:608B UĞUR MUMCU/SULTANGAZİ",
+   "TELEFON": "444 8 364",
+   "WEBSITESI": "www.medigold.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 90,
+   "AMBULANS": "Var",
+   "MAHALLE": "UĞUR MUMCU",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.86323854,
+         41.09946174
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KADIKÖY",
+   "ADI": "Yeditepe Üniversitesi Hastanesi Diş Hekimliği Fakültesi ve Diş Hastanesi",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "Bağdat Cad. No:2A CADDEBOSTAN/KADIKÖY",
+   "TELEFON": "0216 363 60 44",
+   "WEBSITESI": "www.7tepedis.com",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": 0,
+   "AMBULANS": "Yok",
+   "MAHALLE": "CADDEBOSTAN",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.05784518,
+         40.97222023
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KÜÇÜKÇEKMECE",
+   "ADI": "İstanbul SBÜ Kanuni Sultan Süleyman Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Turgut Özal Bulvarı No:46 ATAKENT/KÜÇÜKÇEKMECE",
+   "TELEFON": "0212 404 15 00 - 0212 495 59 20",
+   "WEBSITESI": "www.kanunieah.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 648,
+   "AMBULANS": "Var",
+   "MAHALLE": "ATAKENT",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.75998766,
+         41.05494806
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAHÇELİEVLER",
+   "ADI": "Özel İstanbul Göz Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Neyire Neyir Sk. No:3 BAHÇELİEVLER/BAHÇELİEVLER",
+   "TELEFON": "0212 556 13 13",
+   "WEBSITESI": "www.igh.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 19,
+   "AMBULANS": "Yok",
+   "MAHALLE": "BAHÇELİEVLER",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.87103941,
+         41.00106908
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SİLİVRİ",
+   "ADI": "Özel Silivri Kolan Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Zeki Yüksel Sk. No:21 ALİBEY/SİLİVRİ",
+   "TELEFON": "0212 727 48 48",
+   "WEBSITESI": "www.kolanhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 51,
+   "AMBULANS": "Var",
+   "MAHALLE": "ALİBEY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.25850931,
+         41.0719971
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEYKOZ",
+   "ADI": "Beykoz Devlet Hastanesi Tepeüstü Ek Hizmet Binası",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Hastane Sk. No:3 ÇİĞDEM/BEYKOZ",
+   "TELEFON": "0216 413 63 00 - 0216 322 22 10",
+   "WEBSITESI": "www.pasabahcedh.gov.tr",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": 64,
+   "AMBULANS": "Var",
+   "MAHALLE": "ÇİĞDEM",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.0861435,
+         41.11066212
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "MALTEPE",
+   "ADI": "Özel Maltepe Ersoy Hastanesi ",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Varna Sk. No:16 ALTAYÇEŞME/MALTEPE",
+   "TELEFON": "0216 459 85 85",
+   "WEBSITESI": "www.ersoyhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 25,
+   "AMBULANS": "Var",
+   "MAHALLE": "ALTAYÇEŞME",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.134693,
+         40.93328218
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KAĞITHANE",
+   "ADI": "İstanbul Okmeydanı Ağız ve Diş Sağlığı Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Namzet Sk. No:1 GÜRSEL/KAĞITHANE",
+   "TELEFON": "0212 320 10 43",
+   "WEBSITESI": "www.istanbulagizdis.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 12,
+   "AMBULANS": "Yok",
+   "MAHALLE": "GÜRSEL",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.97415309,
+         41.06628437
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜSKÜDAR",
+   "ADI": "Zeynep Kamil Kadın Doğum ve Çocuk Hastalıkları Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Dr. Burhanettin Üstünel Sk. No:6/2 ZEYNEP KAMİL/ÜSKÜDAR",
+   "TELEFON": "0216 391 06 80",
+   "WEBSITESI": "www.zeynepkamil.gov.tr",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": 293,
+   "AMBULANS": "Yok",
+   "MAHALLE": "ZEYNEP KAMİL",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.02604715,
+         41.01508737
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİŞLİ",
+   "ADI": "Özel Dora Hospital Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Prof. Dr. Bülent Tarcan Cad. No:7 FULYA/ŞİŞLİ",
+   "TELEFON": "0212 337 32 32",
+   "WEBSITESI": "www.dorahospital.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 38,
+   "AMBULANS": "Var",
+   "MAHALLE": "FULYA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.00087601,
+         41.05910904
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ESENLER",
+   "ADI": "Özel Avicenna Hastanesi Esenler",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "307. Sk. No:2 MENDERES/ESENLER",
+   "TELEFON": "0212 440 32 32",
+   "WEBSITESI": "www.avicennahospital.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 103,
+   "AMBULANS": "Var",
+   "MAHALLE": "MENDERES",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.88104124,
+         41.04074032
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAHÇELİEVLER",
+   "ADI": "Özel Memorial Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Adnan Kahveci Bulvarı No:227B BAHÇELİEVLER/BAHÇELİEVLER",
+   "TELEFON": "444 78 88",
+   "WEBSITESI": "www.memorial.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Var",
+   "MAHALLE": "BAHÇELİEVLER",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.85280348,
+         40.99318498
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAĞCILAR",
+   "ADI": "Özel Medicine Hospital Güneşli",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Hoca Ahmet Yesevi Cad. No:149 BARBAROS/BAĞCILAR",
+   "TELEFON": "0212 489 08 01",
+   "WEBSITESI": "www.medicinehospital.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 59,
+   "AMBULANS": "Var",
+   "MAHALLE": "BARBAROS",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.83855574,
+         41.03038103
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİŞLİ",
+   "ADI": "Özel Aksoy Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Cemal Sahir Sk. No:6 GÜLBAHAR/ŞİŞLİ",
+   "TELEFON": "0212 274 88 90",
+   "WEBSITESI": "www.cevrehastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Var",
+   "MAHALLE": "GÜLBAHAR",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.00128991,
+         41.06736051
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BÜYÜKÇEKMECE",
+   "ADI": "Büyükçekmece Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Hülya Koçyiğit Sk. No:2 ATATÜRK/BÜYÜKÇEKMECE",
+   "TELEFON": "0212 882 37 00",
+   "WEBSITESI": "www.buyukcekmecedh.saglik.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 50,
+   "AMBULANS": "Yok",
+   "MAHALLE": "ATATÜRK",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.59838046,
+         41.01264692
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SARIYER",
+   "ADI": "Sarıyer İsmail Akgün Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Dursun Fakih Sk. No:1 MERKEZ/SARIYER",
+   "TELEFON": "0212 242 06 65 - 0212 242 29 58",
+   "WEBSITESI": "www.sariyerdh.saglik.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 50,
+   "AMBULANS": "Yok",
+   "MAHALLE": "SARIYER MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.05676931,
+         41.16921507
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜSKÜDAR",
+   "ADI": "Özel Erdem Hastanesi Çamlıca",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Alemdağ Yan Yolu No:36 KISIKLI/ÜSKÜDAR",
+   "TELEFON": "0216 522 66 66",
+   "WEBSITESI": "www.erdemhastahanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 76,
+   "AMBULANS": "Var",
+   "MAHALLE": "KISIKLI",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.0823437,
+         41.02522453
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SANCAKTEPE",
+   "ADI": "Özel Via Hospital Sancaktepe",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Osmangazi Cad. No:34 SARIGAZİ/SANCAKTEPE",
+   "TELEFON": "0216 625 22 00",
+   "WEBSITESI": "www.viahospital.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 75,
+   "AMBULANS": "Var",
+   "MAHALLE": "SARIGAZİ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.21553374,
+         41.00563938
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "GAZİOSMANPAŞA",
+   "ADI": "Özel Gaziosmanpaşa Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Morlale Sk. No:51 MERKEZ/GAZİOSMANPAŞA",
+   "TELEFON": "0212 615 38 38",
+   "WEBSITESI": "www.gophastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 255,
+   "AMBULANS": "Var",
+   "MAHALLE": "MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.90808245,
+         41.05896915
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SİLİVRİ",
+   "ADI": "Prof.Dr. Necmi Ayanoğlu Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Nedim Beyazgül Sk. No:4 YENİ/SİLİVRİ",
+   "TELEFON": "0212 727 21 00",
+   "WEBSITESI": "www.silivridh.saglik.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 223,
+   "AMBULANS": "Var",
+   "MAHALLE": "YENİ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.25024939,
+         41.0780096
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAĞCILAR",
+   "ADI": "Özel Hastane 34",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Velioğlu Cad. No:77 DEMİRKAPI/BAĞCILAR",
+   "TELEFON": "0212 630 45 45",
+   "WEBSITESI": "http://www.hastane34.com.tr/",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 108,
+   "AMBULANS": "Var",
+   "MAHALLE": "DEMİRKAPI",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.84495225,
+         41.04801412
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ARNAVUTKÖY",
+   "ADI": "Arnavutköy Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Polatkan Sk. No:1165 ARNAVUTKÖY MERKEZ/ARNAVUTKÖY",
+   "TELEFON": "0212 453 12 12",
+   "WEBSITESI": "www.arnavutkoydh.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 201,
+   "AMBULANS": "Yok",
+   "MAHALLE": "ARNAVUTKÖY MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.74688674,
+         41.17755675
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİŞLİ",
+   "ADI": "Okmeydanı Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Darülaceze Cad. No:27 KAPTANPAŞA/ŞİŞLİ",
+   "TELEFON": "0212 221 77 77 - 0212 314 55 55",
+   "WEBSITESI": "www.okmeydani.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 1000,
+   "AMBULANS": "Var",
+   "MAHALLE": "KAPTANPAŞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.97371833,
+         41.065435
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KADIKÖY",
+   "ADI": "Özel Prof. Doktor Nazif Bağrıaçık Diyabet Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Sokullu Sk. No:1 ACIBADEM/KADIKÖY",
+   "TELEFON": "0216 339 57 57",
+   "WEBSITESI": "www.diyabethastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 66,
+   "AMBULANS": "Yok",
+   "MAHALLE": "ACIBADEM",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.0333847,
+         40.99821336
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SANCAKTEPE",
+   "ADI": "Şehit Prof. Dr. İlhan Varank Sancaktepe Eğitim ve Araştırma Hastanesi ",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Namık Kemal Cad. No:54 EMEK/SANCAKTEPE",
+   "TELEFON": "",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 400,
+   "AMBULANS": "Var",
+   "MAHALLE": "EMEK",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.1968146,
+         41.00552488
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KADIKÖY",
+   "ADI": "Özel Medicana Hospital Kızıltoprak",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Recep Peker Cad. No:11 ZÜHTÜPAŞA/KADIKÖY",
+   "TELEFON": "0850 460 63 34",
+   "WEBSITESI": "www.medicana.com.tr",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": null,
+   "AMBULANS": "Yok",
+   "MAHALLE": "ZÜHTÜPAŞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.03823618,
+         40.98535156
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "FATİH",
+   "ADI": "İstanbul Üniversitesi Tıp Fakültesi Hastanesi",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "İÜ Tıp Fakültesi Yolu TOPKAPI/FATİH",
+   "TELEFON": "0212 414 20 00",
+   "WEBSITESI": "http://istanbultip.istanbul.edu.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Var",
+   "MAHALLE": "TOPKAPI",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.93393361,
+         41.01688022
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KADIKÖY",
+   "ADI": "Özel Kadıköy Şifa Hastanesi Kadıköy",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Sakız Sk. No:7 CAFERAĞA/KADIKÖY",
+   "TELEFON": "0216 444 25 74",
+   "WEBSITESI": "www.kadikoysifa.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 56,
+   "AMBULANS": "Var",
+   "MAHALLE": "CAFERAĞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.0265372,
+         40.98879683
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ESENYURT",
+   "ADI": "Esenyurt Necmi Kadıoğlu Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Ondokuz Mayıs Bulvarı No:59 FATİH/ESENYURT",
+   "TELEFON": "0212 596 19 99",
+   "WEBSITESI": "www.esenyurtdh.saglik.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 199,
+   "AMBULANS": "Yok",
+   "MAHALLE": "FATİH",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.66800988,
+         41.0287951
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ZEYTİNBURNU",
+   "ADI": "Özel Avrasya Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "101. Sk. No:107 BEŞTELSİZ/ZEYTİNBURNU",
+   "TELEFON": "0212 665 50 50",
+   "WEBSITESI": "www.avrasyahospital.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 135,
+   "AMBULANS": "Var",
+   "MAHALLE": "BEŞTELSİZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.90700713,
+         41.00327513
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "PENDİK",
+   "ADI": "Özel Remedy Hospital",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Papatya Sk. No:15 DOĞU/PENDİK",
+   "TELEFON": "0216 491 90 90",
+   "WEBSITESI": "www.remedyhospital.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 77,
+   "AMBULANS": "Var",
+   "MAHALLE": "DOĞU",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.23676299,
+         40.87874299
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAHÇELİEVLER",
+   "ADI": "İstanbul Bahçelievler 70.Yıl Fizik Tedavi Rehabilitasyon Eğitim ve Araştırma Merkezi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Adnan Kahveci Bulvarı No:145A BAHÇELİEVLER/BAHÇELİEVLER",
+   "TELEFON": "0212 442 22 00",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": null,
+   "AMBULANS": "Yok",
+   "MAHALLE": "BAHÇELİEVLER",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.85367682,
+         40.99435189
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KAĞITHANE",
+   "ADI": "Özel Levent Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Eski Büyükdere Cad. No:39 SULTAN SELİM/KAĞITHANE",
+   "TELEFON": "0212 270 00 22",
+   "WEBSITESI": "www.leventhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 25,
+   "AMBULANS": "Var",
+   "MAHALLE": "SULTAN SELİM",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.00523982,
+         41.09013141
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "FATİH",
+   "ADI": "Özel Universal Hospital Aksaray",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Adnan Menderes Vatan Bulvarı No:19 MOLLA GÜRANİ/FATİH",
+   "TELEFON": "0212 534 86 00",
+   "WEBSITESI": "www.uhg.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 0,
+   "AMBULANS": "Var",
+   "MAHALLE": "MOLLA GÜRANİ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.94586189,
+         41.01242449
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SULTANGAZİ",
+   "ADI": "Lütfiye Nuri Burat Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "2106. Sk. No:8 50. YIL/SULTANGAZİ",
+   "TELEFON": "0212 594 12 53 - 54 - 55",
+   "WEBSITESI": "www.lutfiyenuriburatdh.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 75,
+   "AMBULANS": "Yok",
+   "MAHALLE": "50. YIL",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.86462924,
+         41.09418974
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "MALTEPE",
+   "ADI": "Maltepe Ceza İnfaz Kurumu Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Safran Çıkmazı No: BÜYÜKBAKKALKÖY/MALTEPE",
+   "TELEFON": "0216 311 57 01 - 02 - 03",
+   "WEBSITESI": "www.sbkeah.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Yok",
+   "MAHALLE": "BÜYÜKBAKKALKÖY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.20386552,
+         40.96769786
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEYLİKDÜZÜ",
+   "ADI": "Özel Medilife Hastanesi Beylikdüzü",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "67. Sk. No:1 YAKUPLU/BEYLİKDÜZÜ",
+   "TELEFON": "0212 866 80 80",
+   "WEBSITESI": "www.medilife.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 84,
+   "AMBULANS": "Var",
+   "MAHALLE": "YAKUPLU",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.66184523,
+         41.00628189
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ATAŞEHİR",
+   "ADI": "Özel Ataşehir Florance Nightingale Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Işıklar Cad. No:35 KÜÇÜKBAKKALKÖY/ATAŞEHİR",
+   "TELEFON": "",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 102,
+   "AMBULANS": "Var",
+   "MAHALLE": "KÜÇÜKBAKKALKÖY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.10897935,
+         40.98491641
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "FATİH",
+   "ADI": "Özel Balat Or-Ahayim Musevi Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Ayvansaray Cad. No:2 AYVANSARAY/FATİH",
+   "TELEFON": "0212 491 00 00",
+   "WEBSITESI": "www.balathastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 85,
+   "AMBULANS": "Var",
+   "MAHALLE": "AYVANSARAY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.94541472,
+         41.03846737
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KARTAL",
+   "ADI": "Özel İbni Sina Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Üsküdar Cad. No:99-101 ATALAR/KARTAL",
+   "TELEFON": "0216 488 31 80",
+   "WEBSITESI": "www.atalarhastanesi.co",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 56,
+   "AMBULANS": "Var",
+   "MAHALLE": "ATALAR",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.16735583,
+         40.900915
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "FATİH",
+   "ADI": "İstanbul Üniversitesi-Cerrahpaşa Tıp Fakültesi Hastanesi",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "Koca Mustafapaşa Cad. No:53Z CERRAHPAŞA/FATİH",
+   "TELEFON": "0212 414 30 00",
+   "WEBSITESI": "http://cerrahpasa.istanbul.edu.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Var",
+   "MAHALLE": "CERRAHPAŞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.9397814,
+         41.00458134
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİLE",
+   "ADI": "Şile Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Cami Sk. No:28 BALİBEY/ŞİLE",
+   "TELEFON": "0216 712 09 99",
+   "WEBSITESI": "www.siledevlet.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 25,
+   "AMBULANS": "Yok",
+   "MAHALLE": "BALİBEY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.6168566,
+         41.174619
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KARTAL",
+   "ADI": "Özel Birlik Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Atatürk Cad. No:1 SOĞANLIK YENİ/KARTAL",
+   "TELEFON": "0216 309 54 44",
+   "WEBSITESI": "www.megapolhastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 34,
+   "AMBULANS": "Var",
+   "MAHALLE": "SOĞANLIK YENİ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.1995128,
+         40.91608515
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "MALTEPE",
+   "ADI": "Özel Maltepe Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Sakızağacı Sk. No:3 BAĞLARBAŞI/MALTEPE",
+   "TELEFON": "444 06 20 - 0850 811 02 51",
+   "WEBSITESI": "www.maltepehastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 80,
+   "AMBULANS": "Var",
+   "MAHALLE": "BAĞLARBAŞI",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.1332929,
+         40.92593158
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ZEYTİNBURNU",
+   "ADI": "Yedikule Gögüs Hastalıkları ve Göğüs Cerrahisi Eğitim ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Asım Kazancıgil Cad. No:36 KAZLIÇEŞME/ZEYTİNBURNU",
+   "TELEFON": "0212 409 02 00",
+   "WEBSITESI": "www.yedikulegogus.saglik.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 333,
+   "AMBULANS": "Var",
+   "MAHALLE": "KAZLIÇEŞME",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.91379292,
+         41.00206992
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAĞCILAR",
+   "ADI": "Özel Safa Hastanesi Bağcılar",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Bağcılar Cad. No:108 YILDIZTEPE/BAĞCILAR",
+   "TELEFON": "0212 444 72 32",
+   "WEBSITESI": "www.safahastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 89,
+   "AMBULANS": "Var",
+   "MAHALLE": "YILDIZTEPE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.85724672,
+         41.02271555
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜMRANİYE",
+   "ADI": "Özel Hisar Intercontinental Hospital Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Siteyolu Cad. No:7 SARAY/ÜMRANİYE",
+   "TELEFON": "0216 524 13 00",
+   "WEBSITESI": "www.hisarhospital.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 162,
+   "AMBULANS": "Var",
+   "MAHALLE": "SARAY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.11536804,
+         41.02667313
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜSKÜDAR",
+   "ADI": "Başkent Üniversitesi İstanbul Sağlık Uygulama ve Araştırma Hastanesi",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "Oymacı Sk. No:5 ALTUNİZADE/ÜSKÜDAR",
+   "TELEFON": "0216 554 15 00",
+   "WEBSITESI": "www.baskent-ist.edu.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 105,
+   "AMBULANS": "Var",
+   "MAHALLE": "ALTUNİZADE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.04095304,
+         41.02490806
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KARTAL",
+   "ADI": "Özel Vera Hastanesi Kartal",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Üsküdar Cad. No:147 ORHANTEPE/KARTAL",
+   "TELEFON": "0216 399 94 50",
+   "WEBSITESI": "www.verahastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 32,
+   "AMBULANS": "Var",
+   "MAHALLE": "ORHANTEPE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.15991074,
+         40.90718069
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KÜÇÜKÇEKMECE",
+   "ADI": "Özel Halkalı Kent Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Zafer Cömert Sk. No:5 HALKALI MERKEZ/KÜÇÜKÇEKMECE",
+   "TELEFON": "0212 471 20 00",
+   "WEBSITESI": "www.halkalikenthastanesi.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 50,
+   "AMBULANS": "Var",
+   "MAHALLE": "HALKALI MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.79400162,
+         41.03532324
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "MALTEPE",
+   "ADI": "Özel Küçükyalı Delta Hospital",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Akgüvercin Sk. No:4 İDEALTEPE/MALTEPE",
+   "TELEFON": "0216 388 99 99",
+   "WEBSITESI": "www.deltahospital.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 53,
+   "AMBULANS": "Yok",
+   "MAHALLE": "İDEALTEPE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.12512891,
+         40.94622616
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÇATALCA",
+   "ADI": "Çatalca İlyas Çokay Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Atatürk Cad. No:115/2 FERHATPAŞA/ÇATALCA",
+   "TELEFON": "0212 789 17 92",
+   "WEBSITESI": "www.catalcadh.saglik.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 50,
+   "AMBULANS": "Yok",
+   "MAHALLE": "FERHATPAŞA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.46688992,
+         41.13502678
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜSKÜDAR",
+   "ADI": "Özel Yunus Emre Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Otopark Arkası Sk. No:18/1 MİMAR SİNAN/ÜSKÜDAR",
+   "TELEFON": "0216 310 47 88",
+   "WEBSITESI": "www.yunusemrehastanesi.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 35,
+   "AMBULANS": "Var",
+   "MAHALLE": "MİMAR SİNAN",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.01736873,
+         41.02302439
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KÜÇÜKÇEKMECE",
+   "ADI": "Özel İstanbul Hospital",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Şener Sk. No:2 ATATÜRK/KÜÇÜKÇEKMECE",
+   "TELEFON": "0212 698 30 70",
+   "WEBSITESI": "www.istanbulhospital.com.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 66,
+   "AMBULANS": "Var",
+   "MAHALLE": "ATATÜRK",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.80303332,
+         41.05033148
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAHÇELİEVLER",
+   "ADI": "İstanbul Fizik Tedavi Rehabilitasyon Eğitim ve Araştırma Hastanesi ",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Ordu Cad. No:1-7 KOCASİNAN MERKEZ/BAHÇELİEVLER",
+   "TELEFON": "0212 496 50 00",
+   "WEBSITESI": "www.istanbulftr.gov.tr",
+   "ACIL_SERVIS": "Yok",
+   "YATAK": 253,
+   "AMBULANS": "Var",
+   "MAHALLE": "KOCASİNAN MERKEZ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.84405448,
+         41.00599613
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SİLİVRİ",
+   "ADI": "Silivri Ceza İnfaz Kurumu Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Çanta Cad. No:162 F SEMİZKUMLAR/SİLİVRİ",
+   "TELEFON": "0212 726 05 62",
+   "WEBSITESI": "http://silivrickdh.saglik.gov.tr",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 30,
+   "AMBULANS": "Yok",
+   "MAHALLE": "SEMİZKUMLAR",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.15362983,
+         41.09370659
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "MALTEPE",
+   "ADI": "İstanbul Onkoloji Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Talatpaşa Cad. No:75 CEVİZLİ/MALTEPE",
+   "TELEFON": "0216 457 37 37",
+   "WEBSITESI": "www.istanbulonkoloji.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 54,
+   "AMBULANS": "Var",
+   "MAHALLE": "CEVİZLİ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.15342084,
+         40.92259348
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİŞLİ",
+   "ADI": "Özel Acıbadem Hastanesi Taksim",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Nizamiye Sk. No:26 İNÖNÜ/ŞİŞLİ",
+   "TELEFON": "0212 273 44 44",
+   "WEBSITESI": "www.acibadem.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": 93,
+   "AMBULANS": "Yok",
+   "MAHALLE": "İNÖNÜ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.98232691,
+         41.04149123
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜMRANİYE",
+   "ADI": "Özel NPİstanbul Beyin Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Saray Mah. Ahmet Tevfik İleri Cad. No:18 Ümraniye",
+   "TELEFON": "(0216) 633 06 33",
+   "WEBSITESI": "www.npistanbul.com",
+   "ACIL_SERVIS": "Var",
+   "YATAK": null,
+   "AMBULANS": "Var",
+   "MAHALLE": "SARAY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.11413456,
+         41.02905779
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ZEYTİNBURNU",
+   "ADI": "S.B.Ü. Haseki Eğitim ve Araştırma Hastanesi Genetik Hastalıkları Tanı Merkezi",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Maltepe Mh. General Ali Rıza Gürcan Cad. Eski Çırpıcı Çıkmaz Sk. Merter İş Merkezi No:7 Merter Zeytinburnu",
+   "TELEFON": "0 212 481 41 11",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "MALTEPE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.89914162,
+         41.00984254
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ESENYURT",
+   "ADI": "ISTİNYE ÜNİVERSİTESİ HASTANESİ",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Aşık Veysel Mah. Süleyman Demirel Cad. No:1 Esenyurt İstanbul",
+   "TELEFON": "0212 979 40 00",
+   "WEBSITESI": "http://www.isuhastanesi.com",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "AŞIK VEYSEL",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.671907,
+         41.05623382
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KADIKÖY",
+   "ADI": "Yeditepe Üniversitesi İhtisas Hastanesi",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "Koşuyolu Mah. Koşuyolu Cad. No: 168 34718 Kadıköy/İstanbul",
+   "TELEFON": "0216 578 50 00",
+   "WEBSITESI": "http://www.yeditepehastanesi.com.tr/sube/kosuyolu-ihtisas-hastanesi",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "KOŞUYOLU",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.03155336,
+         41.00405858
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KÜÇÜKÇEKMECE",
+   "ADI": "İ.A.Ü. VMI MEDİCAL PARK HASTANESİ FLORYA",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": " Beşyol Mahallesi, Akasya Sk., 34295 Küçükçekmece/İstanbul",
+   "TELEFON": "444 2 873",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "BEŞYOL",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.79742924,
+         40.99020992
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ESENYURT",
+   "ADI": "REYAP Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "",
+   "TELEFON": "",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "YEŞİLKENT",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.65988835,
+         41.02581028
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ESENYURT",
+   "ADI": "ESLIFE Hospital ESENYURT",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Battal Gazi Mah. Esen Cad. No:127 Kıraç, Esenyurt - İSTANBUL",
+   "TELEFON": "+90 212 437 54 33",
+   "WEBSITESI": "http://eslifehospital.com",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "BATTALGAZİ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.65213283,
+         41.03989532
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "GAZİOSMANPAŞA",
+   "ADI": "Özel Avrasya Hastanesi Gaziosmanpaşa",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Fevzi Çakmak Mahallesi Hekimsuyu Cad. No:26/34, 34255 Küçükköy, Gaziosmanpaşa/İstanbul",
+   "TELEFON": "0212 612 00 00",
+   "WEBSITESI": "http://www.avrasyahospital.com.tr/",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "FEVZİ ÇAKMAK",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.90635096,
+         41.0768061
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "KÜÇÜKÇEKMECE",
+   "ADI": "Sefaköy Medipol Üniversitesi Hastanesi",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "Tevfik Bey Mahallesi, Maslak Çeşme Cd. No:30, 34295 Küçükçekmece/İstanbul",
+   "TELEFON": "(0212) 912 25 25",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "TEVFİKBEY",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.79794317,
+         41.01490293
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "MALTEPE",
+   "ADI": "Özel Mehmet Toprak Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": " Cevizli Mah. Bağdat Cad. No:547 Maltepe / İSTANBUL",
+   "TELEFON": "0 (216) 225 49 49",
+   "WEBSITESI": "http://www.mehmettoprakhospital.com.tr/",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "CEVİZLİ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.14551716,
+         40.91704335
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SULTANBEYLİ",
+   "ADI": "Sultanbeyli Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Paşaköy caddesi Battalgazi Mah. No:60 Sultanbeyli/İSTANBUL",
+   "TELEFON": "",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "BATTALGAZİ",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.28382438,
+         40.9858456
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ŞİŞLİ",
+   "ADI": "Avrupa Florence Nıghtıngale Hatanesi Araştırma Ve Uygulama Merkezi",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "Mehmetçik Cad. Cahit Yalçın Sok. No:1 Mecidiyeköy / İstanbul",
+   "TELEFON": "(0212) 212 88 11",
+   "WEBSITESI": "http://www.istanbulbilim.edu.tr/",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "FULYA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.99620001,
+         41.06239137
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "TUZLA",
+   "ADI": "Okan Üniversitesi Hastanesi Tuzla",
+   "ALT_KATEGORI": "Üniversite Hastanesi",
+   "ADRES": "İçmeler Mahallesi, Aydınlı Yolu Cad. Aydemir Sokak No:2, 34947 Tuzla/İstanbul",
+   "TELEFON": "0216 494 65 26",
+   "WEBSITESI": "http://www.okanhastanesi.com.tr/",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "İÇMELER",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.30195602,
+         40.8493834
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜSKÜDAR",
+   "ADI": "Acıbadem Altunizade Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Altunizade Mah. Yurtcan Sok. No: 1 Üsküdar / İstanbul 34662",
+   "TELEFON": "0216 649 44 44",
+   "WEBSITESI": "http://www.acibademaltunizade.com/",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "ALTUNİZADE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.04625355,
+         41.01896966
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "ÜSKÜDAR",
+   "ADI": "MOODİST Psikiyatri ve Nöroloji Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Acıbadem Mahallesi, Çeçen Sokak No: 52 (Akasya AVM Yanı) Üsküdar / İstanbul",
+   "TELEFON": "0 216 912 17 00",
+   "WEBSITESI": "http://mood.ist/",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "ACIBADEM",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.05351299,
+         41.00217475
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BEYOĞLU",
+   "ADI": "Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi Gümüşsuyu Binası",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "İnönü Cad. No:61 Gümüşsuyu/Beyoğlu",
+   "TELEFON": "(0212) 251 85 00",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "GÜMÜŞSUYU",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.99041961,
+         41.03708843
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BÜYÜKÇEKMECE",
+   "ADI": "Büyükçekmece Mimar Sinan Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "D-100 Karayolu Üzeri Mimar Sinan/Büyükçekmece",
+   "TELEFON": "0212 909 90 00",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "MİMAR SİNAN",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.55577855,
+         41.01715988
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BAHÇELİEVLER",
+   "ADI": "Özel Haznedar Medicana Hastanesi ",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Bağcılar Cad. No:1 BAHÇELİEVLER/BAHÇELİEVLER",
+   "TELEFON": "",
+   "WEBSITESI": "www.medicana.com.tr",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "BAHÇELİEVLER",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.86998873,
+         41.00675285
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "BÜYÜKÇEKMECE",
+   "ADI": "Beylikdüzü Devlet Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "Yavuz Sultan Selim Bulvarı Köprü Sk. No:2/1 Pınartepe/Büyükçekmece",
+   "TELEFON": "0212 856 27 40",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "PINARTEPE",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.624727,
+         41.014777
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "GAZİOSMANPAŞA",
+   "ADI": "Gaziosmanpaşa Fizik Tedavi ve Rehabilitisyon Hastanesi",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "885 Sok. No:3 MEVLANA/GAZİOSMANPAŞA",
+   "TELEFON": "0212 945 30 00",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "MEVLANA",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.90865787,
+         41.08876635
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "PENDİK",
+   "ADI": "Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi Hematoloji Onkoloji Ek Bina",
+   "ALT_KATEGORI": "Eğitim Araştırma Hastanesi",
+   "ADRES": "Muhsin Yazıcıoğlu Cad. No:58 FEVZİ ÇAKMAK/PENDİK",
+   "TELEFON": "",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "FEVZİ ÇAKMAK",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.26259258,
+         40.88819829
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "PENDİK",
+   "ADI": "Özel Adatıp Kurtköy Hastanesi",
+   "ALT_KATEGORI": "Özel Hastane",
+   "ADRES": "Kardelen Sk. No:2 YENİŞEHİR/PENDİK",
+   "TELEFON": "",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "",
+   "YATAK": 75,
+   "AMBULANS": "Var",
+   "MAHALLE": "YENİŞEHİR",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         29.29108281,
+         40.92580712
+      ]
+   }
+},
+ {
+   "geometry": "Point",
+   "ILCE_ADI": "SULTANGAZİ",
+   "ADI": "Lütfiye Nuri Burat Devlet Hastanesi Ek Hizmet Binası",
+   "ALT_KATEGORI": "Devlet Hastanesi",
+   "ADRES": "2114. Sk. No:19-21 UĞUR MUMCU/SULTANGAZİ",
+   "TELEFON": "",
+   "WEBSITESI": "",
+   "ACIL_SERVIS": "",
+   "YATAK": null,
+   "AMBULANS": "",
+   "MAHALLE": "UĞUR MUMCU",
+   "json_geometry": {
+      "type": "Point",
+      "coordinates": [
+         28.86678011,
+         41.09604308
+      ]
+   }
+}
+]

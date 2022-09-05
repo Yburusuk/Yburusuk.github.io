@@ -1,0 +1,73 @@
+<html>
+
+<head>
+
+  <link rel="stylesheet" type="text/css" href="css/sidebar.css" />
+  <link rel="stylesheet" type="text/css" href="css/index.css" />
+  <link rel="shortcut icon" href="resources/icon.ico">
+
+  <script src="https://js.api.here.com/v3/3.1/mapsjs-core.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://js.api.here.com/v3/3.1/mapsjs-service.js"type="text/javascript" charset="utf-8"></script>
+  <script src="https://js.api.here.com/v3/3.1/mapsjs-ui.js" type="text/javascript" charset="utf-8"></script>
+  <link rel="stylesheet" type="text/css" href="https://js.api.here.com/v3/3.1/mapsjs-ui.css" />
+  <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+  <script src="https://js.api.here.com/v3/3.1/mapsjs-mapevents.js"></script>
+  <script type="text/javascript" src="https://js.api.here.com/v3/3.1/mapsjs-data.js"></script>
+
+  <style type="text/css">
+    .log {
+      position: absolute;
+      top: 5px;
+      left: 5px;
+      height: 150px;
+      width: 250px;
+      overflow: scroll;
+      background: white;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      font-size: 12px;
+    }
+    .log-entry {
+      padding: 5px;
+      border-bottom: 1px solid #d0d9e9;
+    }
+    .log-entry:nth-child(odd) {
+        background-color: #e1e7f1;
+    }
+  </style>
+
+</head>
+
+<body>
+
+   <div id="sidebar">
+      <div class="gradient-line"></div>
+      <div class="header">
+         <h1>En Yakın Hastane</h1>
+         <p>
+           Bu uygulama İstanbul'daki devlet, özel ve eğitim araştırma
+           hastanelerini göstermektedir.
+           <br></br>
+           Aşağıda bulunan adres çubuğuna adresinizi "Cadde/Sokak, Numara, İlçe"
+           şeklinde girerek konumunuza yakın hastaneleri ve en yakın hastaneye
+           gidebileceğiniz rotayı görebilirsiniz.
+           <br></br>
+           Ek olarak, "Canlı Konum" butonuna tıklayarak cihazınızın konumunu 
+           kullanabilirsiniz. 
+         </p>
+
+         <input type="text" id="searchbar" title="Adres girin." placeholder="Adres girin...">
+         <button id="button">Ara<br></button>
+         <br><br>
+         <button id="liveLocation">Canlı Konum</button>
+
+      </div>
+   </div> 
+   <div  id="mapContainer"></div>
+   
+   <script type="module" src="app.js"></script>
+
+</body>
+
+</html>
