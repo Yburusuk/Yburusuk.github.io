@@ -47,7 +47,7 @@ x.forEach(function(i){
     coordinates.push({lat: y[m], lng: i});
 })
 
-var reader = new H.data.geojson.Reader('hastaneler.geojson');
+var reader = new H.data.geojson.Reader('./hastaneler.geojson');
 
 reader.parse();
 
